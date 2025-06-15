@@ -1,0 +1,52 @@
+﻿Log file open, 06/14/25 19:20:33
+LogGenericPlatformMisc: Warning: Failed to determine engine directory: Defaulting to 
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 18 total threads with 1 sets of task threads.
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PlatformCrypto
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OodleDataCompressionFormat'  - 0 instances of that module name found.
+Message dialog closed, result: Ok, title: Message, text: Plugin 'OodleData' failed to load because module 'OodleDataCompressionFormat' could not be found.  Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.
+LogPakFile: Display: Using command line for crypto configuration
+LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
+LogPakFile: Warning: -compress is deprecated, use -compressed with UAT instead
+LogPakFile: Display: Loading response file -compress
+LogPakFile: Error: Failed to load -compress
+LogPakFile: Display: Added 0 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 0 files in 0.00s.
+LogPakFile: Display: Creating pak ../../../newpak.pak.
+LogPakFile: Display: CompressionFormats in priority order: Zlib
+LogDerivedDataCache: Unable to find inner node Boot for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Engine/Programs/UnrealPak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+LogDerivedDataCache: Skipping speed test to ../../../Engine/DerivedDataCache. Assuming local performance
+LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+LogPakFile: Display: CompressionFormat 0 [Zlib] : 0 files, 0 -> 0 bytes
+LogPakFile: Display: CompressionFormat 1 [None] : 0 files, 0 -> 0 bytes
+LogPakFile: Display: Added 0 files, 339 bytes total, time 0.00s.
+LogPakFile: Display: PrimaryIndex size: 106 bytes
+LogPakFile: Display: PathHashIndex size: 8 bytes
+LogPakFile: Display: FullDirectoryIndex size: 4 bytes
+LogPakFile: Display: Encryption - DISABLED
+LogPakFile: Display: Unreal pak executed in 0.006456 seconds
+LogCore: Engine exit requested (reason: UnrealPak Exiting)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DerivedDataCache (7)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 06/14/25 19:20:34
