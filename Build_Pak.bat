@@ -2,15 +2,12 @@
 chcp 65001 >nul
 setlocal enabledelayedexpansion
 
-:: 批处理脚本：处理Unreal Engine本地化文件
-:: 作者：AI助手
-:: 用途：导入本地化数据并重新打包游戏文件
 
 echo 开始处理Unreal Engine本地化文件...
 
 :: 步骤1：执行UnrealLocres导入命令
 echo 步骤1: 导入本地化数据...
-"UnrealLocres/UnrealLocres.exe" import "UnrealLocres/Game.locres" "UnrealLocres/GameText.csv"
+"UnrealLocres/UnrealLocres.exe" import "UnrealLocres/Game.locres" "GameText.csv"
 if errorlevel 1 (
     echo [错误] 本地化数据导入失败
     pause
