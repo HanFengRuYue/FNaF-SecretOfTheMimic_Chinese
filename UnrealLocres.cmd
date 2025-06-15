@@ -1,1 +1,0 @@
-UnrealLocres.exe import Game.locres Game.csv

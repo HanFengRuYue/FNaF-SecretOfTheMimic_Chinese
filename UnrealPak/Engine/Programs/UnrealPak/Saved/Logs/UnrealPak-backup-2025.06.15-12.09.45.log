@@ -1,0 +1,76 @@
+﻿Log file open, 06/15/25 20:09:29
+LogGenericPlatformMisc: Warning: Failed to determine engine directory: Defaulting to 
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 4 named threads and 18 total threads with 1 sets of task threads.
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/DbgHelp/dbghelp.dll' does not exist
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin PlatformCrypto
+LogModuleManager: Warning: ModuleManager: Unable to load module 'OodleDataCompressionFormat'  - 0 instances of that module name found.
+Message dialog closed, result: Ok, title: Message, text: Plugin 'OodleData' failed to load because module 'OodleDataCompressionFormat' could not be found.  Please ensure the plugin is properly installed, otherwise consider disabling the plugin for this project.
+LogPakFile: Display: Using command line for crypto configuration
+LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
+LogPakFile: Warning: -compress is deprecated, use -compressed with UAT instead
+LogPakFile: Display: Loading response file ..\..\..\FNAF_SOTM.txt
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/Localization/Game/en/Game.locres Dest: ../../../FNAF_SOTM/Content/Localization/Game/en/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Italic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PxPlus_IBM_BIOS.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBlack-1GLyL.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBold-Rpz8M.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/DS-DIGIB.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/Gila-AL4r7.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/GilaBold-DOG21.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Bold.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-BoldItalic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Regular.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/JAi.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+LogPakFile: Display: Added 12 entries to add to pak file.
+LogPakFile: Display: Collecting files to add to pak file...
+LogPakFile: Display: Collected 12 files in 0.00s.
+LogPakFile: Display: Creating pak D:/Document/Git/FNaF-SecretOfTheMimic_Chinese/FNAF_SOTM-WindowsNoEditor_p.pak.
+LogPakFile: Display: CompressionFormats in priority order: Zlib
+LogDerivedDataCache: Unable to find inner node Boot for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Engine/Programs/UnrealPak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+LogDerivedDataCache: Skipping speed test to ../../../Engine/DerivedDataCache. Assuming local performance
+LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+LogPakFile: Added compressed file "Localization/Game/en/Game.locres", 43.20% of original size. Compressed with Zlib, Size 97060 bytes, Original Size 224701 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Bold.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/CourierPrime-BoldItalic.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Italic.ufont", 50.62% of original size. Compressed with Zlib, Size 7593738 bytes, Original Size 15001720 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Regular.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/DS-DIGIB.ufont", 35.33% of original size. Compressed with Zlib, Size 8796 bytes, Original Size 24896 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/Gila-AL4r7.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/GilaBold-DOG21.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/JAi.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/PowerrBlack-1GLyL.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/PowerrBold-Rpz8M.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
+LogPakFile: Added compressed file "UI/Fonts/PxPlus_IBM_BIOS.ufont", 24.81% of original size. Compressed with Zlib, Size 649196 bytes, Original Size 2616488 bytes (no order given).
+LogPakFile: Display: CompressionFormat 0 [Zlib] : 12 files, 81320377 -> 42361050 bytes
+LogPakFile: Display: CompressionFormat 1 [None] : 0 files, 0 -> 0 bytes
+LogPakFile: Display: Added 12 files, 42387930 bytes total, time 0.25s.
+LogPakFile: Display: PrimaryIndex size: 5308 bytes
+LogPakFile: Display: PathHashIndex size: 261 bytes
+LogPakFile: Display: FullDirectoryIndex size: 470 bytes
+LogPakFile: Display: Compression summary: 52.09% of original size. Compressed Size 42361050 bytes, Original Size 81320377 bytes. 
+LogPakFile: Display: Encryption - DISABLED
+LogPakFile: Display: Unreal pak executed in 0.254870 seconds
+LogCore: Engine exit requested (reason: UnrealPak Exiting)
+LogExit: Preparing to exit.
+LogModuleManager: Shutting down and abandoning module DerivedDataCache (7)
+LogModuleManager: Shutting down and abandoning module PakFile (4)
+LogModuleManager: Shutting down and abandoning module RSA (3)
+LogExit: Exiting.
+Log file closed, 06/15/25 20:09:45
