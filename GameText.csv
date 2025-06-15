@@ -181,7 +181,7 @@ Lots of jumpscares!","   闪烁的灯光
 /Loc_UI_Subterminals_AdminWing_Text1,"Greetings, Mr. Murray. How can I help you today?",您好，默里先生。今天有什么可以帮您的吗？
 /Loc_UI_OptionsMenu_HeadBob,Head Bob,头部晃动
 /Loc_UI_Credits_IntroCredits_Holdtoskip,Hold to skip,按住跳过
-/Loc_UI_Terminals_ReadyConnection_INSERTDATADIVER,INSERT DATA DIVER,请插入数据潜水器
+/Loc_UI_Terminals_ReadyConnection_INSERTDATADIVER,INSERT DATA DIVER,请插入数据潜入器
 /Loc_UI_Menus_ControlsOptions_Text1,"If you are unsure, Reset All Bindings",如有疑问，请重置所有按键绑定
 /Loc_UI_Subterminals_Nightlight_Text1,"In case of a power emergency, please grab the nearest Starbright and head to a marked exit.",遇到断电等紧急情况时，请尽快拿到最近的星光并前往指定出口。
 /Loc_UI_OptionsMenu_Input,Input,输入
@@ -1088,7 +1088,7 @@ Loc_Subtitles/ARNOLD_00008,(ARNOLD)\\\\Okay... how am I supposed to get in?,(阿
 Loc_Subtitles/ARNOLD_00009,(ARNOLD)\\\\That sounded important. What was that?,(阿诺德)\\\\那声音听起来很重要。刚才那是什么？
 Loc_Subtitles/ARNOLD_01001,"(ARNOLD)\\\\Wait, what? I can barely keep my eyes open!",(阿诺德)\\\\等等，什么？我已经快睁不开眼睛了！
 Loc_Subtitles/ARNOLD_01000,"(ARNOLD)\\\\Well, since you asked, I just finished a 36-hour shift... been struggling to stay awake. Frankly, I tried to tell my manager that I can't work like this anymore...",(阿诺德)\\\\既然你问了，我刚刚连续上了36小时的班……一直在硬撑保持清醒。说真的，我都跟经理说过我撑不下去了……
-Loc_Subtitles/ARNOLD_01005,(ARNOLD)\\\\What? I just talked to you. You told me to give you the data diver and I could go home.,(阿诺德)\\\\什么？我刚跟你说过话。你说让我把数据潜水器给你，我就能回家了。
+Loc_Subtitles/ARNOLD_01005,(ARNOLD)\\\\What? I just talked to you. You told me to give you the data diver and I could go home.,(阿诺德)\\\\什么？我刚跟你说过话。你说让我把数据潜入器给你，我就能回家了。
 Loc_Subtitles/ARNOLD_01002,(ARNOLD)\\\\What? No! I'm doing it because you guys keep threatening to dock my pay and repo my truck!,(阿诺德)\\\\什么？不是的！我这么做是因为你们一直威胁要扣我工资，还要把我的卡车收回去！
 Loc_Subtitles/ARNOLD_00501,(ARNOLD)\\\\Whoop!,(阿诺德)\\\\哇啊！
 Loc_Subtitles/BAWSON_00005,(BAWSON)\\\\(Cheering on fight),(鲍森)\\\\(为战斗加油)
