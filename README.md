@@ -1,11 +1,10 @@
-# FNaF-SecretOfTheMimic_Chinese
-Five Nights at Freddy's: Secret of the Mimic 中文汉化项目
+# FNaF-模仿者的秘密中文汉化补丁项目
 
-欢迎参与玩具熊的五夜后宫：模仿者的秘密的汉化项目！这个项目的目的是让中国玩家更好地享受这款恐怖解谜游戏！
+欢迎参与FNaF：模仿者的秘密的汉化项目！这个项目的目的是让中国玩家更好地游玩这款游戏！
 
 本项目完全开源免费，采用MIT License。
 
-![项目封面](library_header.jpg)
+![项目封面](Image/library_header.jpg)
 
 [最新汉化补丁下载](https://github.com/HanFengRuYue/FNaF-SecretOfTheMimic_Chinese/releases)
 
