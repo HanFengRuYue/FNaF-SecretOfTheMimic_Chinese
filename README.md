@@ -17,7 +17,7 @@
 
 ## 参与汉化者名单
 
-感谢所有为本项目做出贡献的开发者！
+感谢所有为本项目做出贡献的汉化者！
 
 [![贡献者](https://contrib.rocks/image?repo=HanFengRuYue/FNaF-SecretOfTheMimic_Chinese)](https://github.com/HanFengRuYue/FNaF-SecretOfTheMimic_Chinese/graphs/contributors)
 
