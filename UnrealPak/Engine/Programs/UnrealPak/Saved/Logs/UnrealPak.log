@@ -1,4 +1,4 @@
-﻿Log file open, 06/15/25 20:23:32
+﻿Log file open, 06/16/25 01:14:46
 LogGenericPlatformMisc: Warning: Failed to determine engine directory: Defaulting to 
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
@@ -56,81 +56,81 @@ LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
 LogConfig: Applying CVar settings from Section [ConsoleVariables] File [../../../Engine/Programs/UnrealPak/Saved/Config/Windows/Engine.ini]
-[2025.06.15-12.23.32:838][  0]LogInit: Computer: HANFENGDESKTOP
-[2025.06.15-12.23.32:838][  0]LogInit: User: huang
-[2025.06.15-12.23.32:838][  0]LogInit: CPU Page size=4096, Cores=8
-[2025.06.15-12.23.32:838][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2025.06.15-12.23.32:838][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx)
-[2025.06.15-12.23.32:838][  0]LogMemory: Platform Memory Stats for Windows
-[2025.06.15-12.23.32:838][  0]LogMemory: Process Physical Memory: 25.42 MB used, 25.42 MB peak
-[2025.06.15-12.23.32:838][  0]LogMemory: Process Virtual Memory: 61.53 MB used, 61.53 MB peak
-[2025.06.15-12.23.32:838][  0]LogMemory: Physical Memory: 11245.59 MB used,  20615.41 MB free, 31861.00 MB total
-[2025.06.15-12.23.32:838][  0]LogMemory: Virtual Memory: 134198408.00 MB used,  19318.61 MB free, 134217728.00 MB total
-[2025.06.15-12.23.32:838][  0]LogInit: Using OS detected language ().
-[2025.06.15-12.23.32:838][  0]LogInit: Using OS detected locale ().
-[2025.06.15-12.23.32:838][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.06.15-12.23.32:838][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.06.15-12.23.32:838][  0]LogInit: Using OS detected language ().
-[2025.06.15-12.23.32:838][  0]LogInit: Using OS detected locale ().
-[2025.06.15-12.23.32:838][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
-[2025.06.15-12.23.32:838][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
-[2025.06.15-12.23.32:839][  0]LogTextLocalizationManager: Compacting localization data took   0.00ms
-[2025.06.15-12.23.32:839][  0]LogPakFile: Display: Using command line for crypto configuration
-[2025.06.15-12.23.32:839][  0]LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
-[2025.06.15-12.23.32:840][  0]LogPakFile: Warning: -compress is deprecated, use -compressed with UAT instead
-[2025.06.15-12.23.32:840][  0]LogPakFile: Display: Loading response file ..\..\..\FNAF_SOTM.txt
-[2025.06.15-12.23.32:840][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/Localization/Game/en/Game.locres Dest: ../../../FNAF_SOTM/Content/Localization/Game/en/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Italic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PxPlus_IBM_BIOS.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBlack-1GLyL.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBold-Rpz8M.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/DS-DIGIB.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/Gila-AL4r7.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/GilaBold-DOG21.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Bold.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-BoldItalic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Regular.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/JAi.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
-[2025.06.15-12.23.32:841][  0]LogPakFile: Display: Added 12 entries to add to pak file.
-[2025.06.15-12.23.32:841][  0]LogPakFile: Display: Collecting files to add to pak file...
-[2025.06.15-12.23.32:841][  0]LogPakFile: Display: Collected 12 files in 0.00s.
-[2025.06.15-12.23.32:841][  0]LogPakFile: Display: Creating pak D:/Document/Git/FNaF-SecretOfTheMimic_Chinese/FNAF_SOTM-WindowsNoEditor_p.pak.
-[2025.06.15-12.23.32:841][  0]LogPakFile: Display: CompressionFormats in priority order: Zlib
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Unable to find inner node Boot for hierarchical cache Hierarchy.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Engine/Programs/UnrealPak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Skipping speed test to ../../../Engine/DerivedDataCache. Assuming local performance
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2025.06.15-12.23.32:843][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2025.06.15-12.23.32:851][  0]LogPakFile: Added compressed file "Localization/Game/en/Game.locres", 43.19% of original size. Compressed with Zlib, Size 97062 bytes, Original Size 224713 bytes (no order given).
-[2025.06.15-12.23.32:892][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Bold.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
-[2025.06.15-12.23.32:932][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-BoldItalic.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
-[2025.06.15-12.23.32:975][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Italic.ufont", 50.62% of original size. Compressed with Zlib, Size 7593738 bytes, Original Size 15001720 bytes (no order given).
-[2025.06.15-12.23.33:018][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Regular.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
-[2025.06.15-12.23.33:018][  0]LogPakFile: Added compressed file "UI/Fonts/DS-DIGIB.ufont", 35.33% of original size. Compressed with Zlib, Size 8796 bytes, Original Size 24896 bytes (no order given).
-[2025.06.15-12.23.33:024][  0]LogPakFile: Added compressed file "UI/Fonts/Gila-AL4r7.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
-[2025.06.15-12.23.33:030][  0]LogPakFile: Added compressed file "UI/Fonts/GilaBold-DOG21.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
-[2025.06.15-12.23.33:072][  0]LogPakFile: Added compressed file "UI/Fonts/JAi.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
-[2025.06.15-12.23.33:078][  0]LogPakFile: Added compressed file "UI/Fonts/PowerrBlack-1GLyL.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
-[2025.06.15-12.23.33:084][  0]LogPakFile: Added compressed file "UI/Fonts/PowerrBold-Rpz8M.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
-[2025.06.15-12.23.33:092][  0]LogPakFile: Added compressed file "UI/Fonts/PxPlus_IBM_BIOS.ufont", 24.81% of original size. Compressed with Zlib, Size 649196 bytes, Original Size 2616488 bytes (no order given).
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: CompressionFormat 0 [Zlib] : 12 files, 81320389 -> 42361052 bytes
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: CompressionFormat 1 [None] : 0 files, 0 -> 0 bytes
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: Added 12 files, 42387932 bytes total, time 0.25s.
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: PrimaryIndex size: 5308 bytes
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: PathHashIndex size: 261 bytes
-[2025.06.15-12.23.33:092][  0]LogPakFile: Display: FullDirectoryIndex size: 470 bytes
-[2025.06.15-12.23.33:093][  0]LogPakFile: Display: Compression summary: 52.09% of original size. Compressed Size 42361052 bytes, Original Size 81320389 bytes. 
-[2025.06.15-12.23.33:093][  0]LogPakFile: Display: Encryption - DISABLED
-[2025.06.15-12.23.33:093][  0]LogPakFile: Display: Unreal pak executed in 0.253736 seconds
-[2025.06.15-12.23.33:108][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
-[2025.06.15-12.23.33:108][  0]LogExit: Preparing to exit.
-[2025.06.15-12.23.33:108][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (6)
-[2025.06.15-12.23.33:345][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
-[2025.06.15-12.23.33:345][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
-[2025.06.15-12.23.33:345][  0]LogExit: Exiting.
-[2025.06.15-12.23.33:355][  0]Log file closed, 06/15/25 20:23:33
+[2025.06.15-17.14.46:705][  0]LogInit: Computer: HANFENGDESKTOP
+[2025.06.15-17.14.46:705][  0]LogInit: User: huang
+[2025.06.15-17.14.46:705][  0]LogInit: CPU Page size=4096, Cores=8
+[2025.06.15-17.14.46:705][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.06.15-17.14.46:705][  0]LogMemory: Memory total: Physical=31.1GB (32GB approx)
+[2025.06.15-17.14.46:705][  0]LogMemory: Platform Memory Stats for Windows
+[2025.06.15-17.14.46:705][  0]LogMemory: Process Physical Memory: 25.38 MB used, 25.38 MB peak
+[2025.06.15-17.14.46:705][  0]LogMemory: Process Virtual Memory: 61.53 MB used, 61.53 MB peak
+[2025.06.15-17.14.46:705][  0]LogMemory: Physical Memory: 10656.57 MB used,  21204.43 MB free, 31861.00 MB total
+[2025.06.15-17.14.46:705][  0]LogMemory: Virtual Memory: 134200048.00 MB used,  17679.65 MB free, 134217728.00 MB total
+[2025.06.15-17.14.46:705][  0]LogInit: Using OS detected language ().
+[2025.06.15-17.14.46:705][  0]LogInit: Using OS detected locale ().
+[2025.06.15-17.14.46:705][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.06.15-17.14.46:705][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.06.15-17.14.46:705][  0]LogInit: Using OS detected language ().
+[2025.06.15-17.14.46:705][  0]LogInit: Using OS detected locale ().
+[2025.06.15-17.14.46:705][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the language.
+[2025.06.15-17.14.46:705][  0]LogTextLocalizationManager: No localization for '' exists, so 'en' will be used for the locale.
+[2025.06.15-17.14.46:706][  0]LogTextLocalizationManager: Compacting localization data took   0.08ms
+[2025.06.15-17.14.46:706][  0]LogPakFile: Display: Using command line for crypto configuration
+[2025.06.15-17.14.46:706][  0]LogPakFile: Engine only spawned 14 worker threads, bumping up to 15!
+[2025.06.15-17.14.46:708][  0]LogPakFile: Warning: -compress is deprecated, use -compressed with UAT instead
+[2025.06.15-17.14.46:708][  0]LogPakFile: Display: Loading response file ..\..\..\FNAF_SOTM.txt
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/Localization/Game/en/Game.locres Dest: ../../../FNAF_SOTM/Content/Localization/Game/en/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Italic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PxPlus_IBM_BIOS.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBlack-1GLyL.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/PowerrBold-Rpz8M.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/DS-DIGIB.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/Gila-AL4r7.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/GilaBold-DOG21.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Bold.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-BoldItalic.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/CourierPrime-Regular.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Added file Source: ../../../FNAF_SOTM/Content/UI/Fonts/JAi.ufont Dest: ../../../FNAF_SOTM/Content/UI/Fonts/
+[2025.06.15-17.14.46:708][  0]LogPakFile: Display: Added 12 entries to add to pak file.
+[2025.06.15-17.14.46:708][  0]LogPakFile: Display: Collecting files to add to pak file...
+[2025.06.15-17.14.46:709][  0]LogPakFile: Display: Collected 12 files in 0.00s.
+[2025.06.15-17.14.46:709][  0]LogPakFile: Display: Creating pak D:/Document/Git/FNaF-SecretOfTheMimic_Chinese/FNAF_SOTM-WindowsNoEditor_p.pak.
+[2025.06.15-17.14.46:709][  0]LogPakFile: Display: CompressionFormats in priority order: Zlib
+[2025.06.15-17.14.46:719][  0]LogDerivedDataCache: Unable to find inner node Boot for hierarchical cache Hierarchy.
+[2025.06.15-17.14.46:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../Engine/Programs/UnrealPak/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.06.15-17.14.46:719][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.06.15-17.14.46:719][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.06.15-17.14.46:719][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2025.06.15-17.14.46:720][  0]LogDerivedDataCache: Skipping speed test to ../../../Engine/DerivedDataCache. Assuming local performance
+[2025.06.15-17.14.46:720][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2025.06.15-17.14.46:720][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2025.06.15-17.14.46:720][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.06.15-17.14.46:720][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.06.15-17.14.46:723][  0]LogPakFile: Added compressed file "Localization/Game/en/Game.locres", 43.19% of original size. Compressed with Zlib, Size 97053 bytes, Original Size 224713 bytes (no order given).
+[2025.06.15-17.14.46:768][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Bold.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
+[2025.06.15-17.14.46:809][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-BoldItalic.ufont", 53.84% of original size. Compressed with Zlib, Size 7526081 bytes, Original Size 13978508 bytes (no order given).
+[2025.06.15-17.14.46:854][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Italic.ufont", 50.62% of original size. Compressed with Zlib, Size 7593738 bytes, Original Size 15001720 bytes (no order given).
+[2025.06.15-17.14.46:896][  0]LogPakFile: Added compressed file "UI/Fonts/CourierPrime-Regular.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
+[2025.06.15-17.14.46:897][  0]LogPakFile: Added compressed file "UI/Fonts/DS-DIGIB.ufont", 35.33% of original size. Compressed with Zlib, Size 8796 bytes, Original Size 24896 bytes (no order given).
+[2025.06.15-17.14.46:904][  0]LogPakFile: Added compressed file "UI/Fonts/Gila-AL4r7.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
+[2025.06.15-17.14.46:910][  0]LogPakFile: Added compressed file "UI/Fonts/GilaBold-DOG21.ufont", 64.06% of original size. Compressed with Zlib, Size 1012613 bytes, Original Size 1580650 bytes (no order given).
+[2025.06.15-17.14.46:957][  0]LogPakFile: Added compressed file "UI/Fonts/JAi.ufont", 52.10% of original size. Compressed with Zlib, Size 7639330 bytes, Original Size 14663464 bytes (no order given).
+[2025.06.15-17.14.46:963][  0]LogPakFile: Added compressed file "UI/Fonts/PowerrBlack-1GLyL.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
+[2025.06.15-17.14.46:969][  0]LogPakFile: Added compressed file "UI/Fonts/PowerrBold-Rpz8M.ufont", 55.07% of original size. Compressed with Zlib, Size 828106 bytes, Original Size 1503664 bytes (no order given).
+[2025.06.15-17.14.46:979][  0]LogPakFile: Added compressed file "UI/Fonts/PxPlus_IBM_BIOS.ufont", 24.81% of original size. Compressed with Zlib, Size 649196 bytes, Original Size 2616488 bytes (no order given).
+[2025.06.15-17.14.46:979][  0]LogPakFile: Display: CompressionFormat 0 [Zlib] : 12 files, 81320389 -> 42361043 bytes
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: CompressionFormat 1 [None] : 0 files, 0 -> 0 bytes
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: Added 12 files, 42387923 bytes total, time 0.27s.
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: PrimaryIndex size: 5308 bytes
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: PathHashIndex size: 261 bytes
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: FullDirectoryIndex size: 470 bytes
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: Compression summary: 52.09% of original size. Compressed Size 42361043 bytes, Original Size 81320389 bytes. 
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: Encryption - DISABLED
+[2025.06.15-17.14.46:980][  0]LogPakFile: Display: Unreal pak executed in 0.273839 seconds
+[2025.06.15-17.14.46:981][  0]LogCore: Engine exit requested (reason: UnrealPak Exiting)
+[2025.06.15-17.14.46:981][  0]LogExit: Preparing to exit.
+[2025.06.15-17.14.46:982][  0]LogModuleManager: Shutting down and abandoning module DerivedDataCache (6)
+[2025.06.15-17.14.47:220][  0]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2025.06.15-17.14.47:220][  0]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2025.06.15-17.14.47:220][  0]LogExit: Exiting.
+[2025.06.15-17.14.47:232][  0]Log file closed, 06/16/25 01:14:47
