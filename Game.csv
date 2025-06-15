@@ -91,9 +91,9 @@ Revenue for Q3: -$5000","余额：$500
 /Loc_UI_OptionsMenu_DLSSFrameGeneration,DLSS Frame Generation,DLSS 帧生成
 /Loc_UI_OptionsMenu_DLSSSuperRes,DLSS Super Res,DLSS 超分辨率
 /3EC4888D4D2870C4AB0FDBA430E65DCA,DOOR CLOSE,关门
-/Loc_UI_UpgradeStation_DataDiverAccess,Data Diver Access,数据潜水者访问
-/Loc_UI_UpgradeStation_DataDiverReady,Data Diver Ready For Upgrade,数据潜水者准备升级
-/Loc_UI_UpgradeStation_PhysicalUpgradeStation_DataDiverUpgrade,Data Diver Upgrade,数据潜水者升级
+/Loc_UI_UpgradeStation_DataDiverAccess,Data Diver Access,数据潜入器访问
+/Loc_UI_UpgradeStation_DataDiverReady,Data Diver Ready For Upgrade,数据潜入器准备升级
+/Loc_UI_UpgradeStation_PhysicalUpgradeStation_DataDiverUpgrade,Data Diver Upgrade,数据潜入器升级
 /Loc_UI_OptionsBottomBar_Defaults,Defaults,恢复默认
 /Loc_UI_ProfileSelect_DeleteProfile1,Delete Profile 1,删除档案1
 /Loc_UI_ProfileSelect_DeleteProfile2,Delete Profile 2,删除档案2
@@ -1014,11 +1014,11 @@ Loc_Objective/Loc_Objective_Obj4_Text8,Finish the Big Top Experience.,完成蛛�
 Loc_Objective/Loc_Objective_Obj9_Text1,Get back to the Security Office.,返回安保办公室。
 Loc_Objective/Loc_Objective_Obj8_Text1,Get the blueprints in the Admin Wing.,在管理员区域获取蓝图。
 Loc_Objective/Loc_Objective_Obj1_Text4,Get to the Security Office.,到达安保办公室。
-Loc_Objective/Loc_Objective_Obj10_Text1,Give up the Data Diver.,交出数据潜水者。
+Loc_Objective/Loc_Objective_Obj10_Text1,Give up the Data Diver.,交出数据潜入器。
 Loc_Objective/Loc_Objective_Obj6_Text2,Go through the Workshops to get to the Theater.,穿过工作坊前往剧院。
 Loc_Objective/Loc_Objective_Obj5_Text1,Head back to the Security Office through the roof access.,通过屋顶通道返回安保办公室。
 Loc_Objective/Loc_Objective_Obj13_Text1,Leave the Facility,离开这处设施。
-Loc_Objective/Loc_Objective_Obj1_Text2,Pick up Data Diver.,拾取数据潜水者。
+Loc_Objective/Loc_Objective_Obj1_Text2,Pick up Data Diver.,拾取数据潜入器。
 Loc_Objective/Loc_Objective_Obj4_Text5,Repair Showroom Elevator.,修复展厅的电梯。
 Loc_Objective/Loc_Objective_Obj7_Text2,Repair the Doll Hospital door.,修理玩偶医院的门。
 Loc_Objective/Loc_Objective_Obj4_Text2,Reset Welcome Show.,重启欢迎秀。
@@ -1026,8 +1026,8 @@ Loc_Objective/Loc_Objective_Obj2_Text3,Reset the power.,重启电源系统。
 Loc_Objective/Loc_Objective_Obj12_Text1,Return to the Security Office.,返回安保办公室。
 Loc_Objective/Loc_Objective_Obj6_Text5,Start the Puppet Show.,开启木偶表演秀。
 Loc_Objective/Loc_Objective_Obj7_Text5,Unclog the chutes manually.,手动疏通溜槽堵塞。
-Loc_Objective/Loc_Objective_Obj4_Text1,Upgrade Data Diver in the Big Top Showroom.,在蛛顶票王展厅给数据潜水者升级。
-Loc_Objective/Loc_Objective_Obj6_Text1,Upgrade Data Diver in the Theater.,在剧院为数据潜水者升级。
+Loc_Objective/Loc_Objective_Obj4_Text1,Upgrade Data Diver in the Big Top Showroom.,在蛛顶票王展厅给数据潜入器升级。
+Loc_Objective/Loc_Objective_Obj6_Text1,Upgrade Data Diver in the Theater.,在剧院为数据潜入器升级。
 Loc_Objective/Loc_Objective_Obj4_Text6,Upgrade Station is on the 2nd Floor.,升级站位于二楼。
 Loc_Objective/Loc_Objective_Obj4_Text7,Use conduit to restart power.,用电缆重启电源。
 Loc_Objective/Loc_Objective_Obj4_Text4,Use tape on Repair Terminal.,用维修胶带修理终端设备。
@@ -1220,7 +1220,7 @@ Loc_Subtitles/DISPATCH_00419,(DISPATCH)\\\\Fazbear will send another. Maybe that
 Loc_Subtitles/DISPATCH_00307r,"(DISPATCH)\\\\Finally, you have access to the Admin Wing. That's where Murray's office is located.\\\\And most importantly, the schematics.",(调度员)\\\\你终于获得了行政区的通行权。默里的办公室就在那里面。\\\\更重要的是，那里还有设计图纸。
 Loc_Subtitles/DISPATCH_01042,"(DISPATCH)\\\\From what we can tell, it was designed to keep Murray's son entertained while Murray worked.",(调度员)\\\\据我们了解，这里原本是为了让默里工作的同时，他的儿子能有地方玩耍而特别设计的。
 Loc_Subtitles/DISPATCH_01029,"(DISPATCH)\\\\Get that schematic, and with some luck, you can deactivate that endoskeleton and collect it for us as well.",(调度员)\\\\找到那份设计图，如果顺利的话，你还能帮我们关掉那台内骨骼并把它带回来。
-Loc_Subtitles/DISPATCH_00404,(DISPATCH)\\\\Give me the Data Diver.,(调度员)\\\\把数据潜水者交给我。
+Loc_Subtitles/DISPATCH_00404,(DISPATCH)\\\\Give me the Data Diver.,(调度员)\\\\把数据潜入器交给我。
 Loc_Subtitles/DISPATCH_00023,(DISPATCH)\\\\Good job.,(调度员)\\\\干得不错。
 Loc_Subtitles/DISPATCH_00032,(DISPATCH)\\\\Good job. Well done.,(调度员)\\\\很棒，干得漂亮。
 Loc_Subtitles/DISPATCH_00108,(DISPATCH)\\\\Good job. You can reach the Lobby from here.,(调度员)\\\\干得好。你现在可以从这里进入大厅了。
@@ -1278,7 +1278,7 @@ Loc_Subtitles/DISPATCH_01043,(DISPATCH)\\\\It would mimic the actions of those a
 Loc_Subtitles/DISPATCH_00330,(DISPATCH)\\\\It's locked. ,(调度员)\\\\锁上了。 
 Loc_Subtitles/DISPATCH_00308,(DISPATCH)\\\\It's on the upper floor of the Administration Wing. ,(调度员)\\\\它在行政区的楼上。 
 Loc_Subtitles/DISPATCH_00113s,"(DISPATCH)\\\\It's something we haven't seen before. I'm sure it's nothing, but just be careful in case it's something. ",(调度员)\\\\这是我们从未见过的玩意儿。或许没什么大不了，但你还是小心点，以防万一。 
-Loc_Subtitles/DISPATCH_00061,(DISPATCH)\\\\It’s very important that you update the Data Diver whenever you find an Access Station. This is not optional.,(调度员)\\\\每次找到接入终端时，都必须立刻更新数据潜水者，这不是可有可无的选项。
+Loc_Subtitles/DISPATCH_00061,(DISPATCH)\\\\It’s very important that you update the Data Diver whenever you find an Access Station. This is not optional.,(调度员)\\\\每次找到接入终端时，都必须立刻更新数据潜入器，这不是可有可无的选项。
 Loc_Subtitles/DISPATCH_00050A,(DISPATCH)\\\\Just follow the soothing sound of my voice. ,(调度员)\\\\只管跟着我平稳的声音走。 
 Loc_Subtitles/DISPATCH_00030,(DISPATCH)\\\\Just pick it up when you find it.,(调度员)\\\\找到了就直接拿起来。
 Loc_Subtitles/DISPATCH_00327,(DISPATCH)\\\\Just put it in the inventory machine. It's right there in the corner...,(调度员)\\\\只要把它投进盘点机。就在角落里……
@@ -1295,7 +1295,7 @@ Loc_Subtitles/DISPATCH_00421,(DISPATCH)\\\\No entry.,(调度员)\\\\禁止进入
 Loc_Subtitles/Dispatch_F10N4_002,(DISPATCH)\\\\No entry.,(调度员)\\\\禁止进入。
 Loc_Subtitles/DISPATCH_01011,"(DISPATCH)\\\\No one doubted you for a second, and those who did are now out $20...",(调度员)\\\\没人怀疑过你一秒钟，倒是那些怀疑你的人现在都输了二十美元……
 Loc_Subtitles/DISPATCH_01062,(DISPATCH)\\\\No. You did everything I asked up to this point. You were an obedient dog. A good dog.,(调度员)\\\\不，你做到了我要求的一切，到目前为止像只乖巧的狗，真不错。
-Loc_Subtitles/DISPATCH_01033,"(DISPATCH)\\\\Not a problem, we just need to find stations to upgrade your Data Diver until you can gain access. ",(调度员)\\\\没事儿，我们只需去升级你的数据潜水者，直到你拿到进入权限。 
+Loc_Subtitles/DISPATCH_01033,"(DISPATCH)\\\\Not a problem, we just need to find stations to upgrade your Data Diver until you can gain access. ",(调度员)\\\\没事儿，我们只需去升级你的数据潜入器，直到你拿到进入权限。 
 Loc_Subtitles/DISPATCH_00031,(DISPATCH)\\\\Not a promising start… ,(调度员)\\\\开局不太妙啊…… 
 Loc_Subtitles/DISPATCH_00059,(DISPATCH)\\\\Now go find that power room. ,(调度员)\\\\现在去找配电室。 
 Loc_Subtitles/DISPATCH_01014,"(DISPATCH)\\\\Now that you're there (and it would be very difficult for you to turn back),\\\\I should probably level with you a little.",(调度员)\\\\既然你已经在那里了(回头也几乎不可能)，那我得跟你坦白点事。
@@ -1305,12 +1305,12 @@ Loc_Subtitles/DISPATCH_01056,"(DISPATCH)\\\\Now, it's your turn to play dress up
 Loc_Subtitles/DISPATCH_00091,"(DISPATCH)\\\\Now, what're you waiting for? Keep on truckin’.",(调度员)\\\\还等什么？继续干活。
 Loc_Subtitles/DISPATCH_00304,"(DISPATCH)\\\\Now, you are going to love this. I have located the Fazbear project blueprints. ",(调度员)\\\\你肯定会喜欢这个。我找到了费兹熊项目的蓝图。 
 Loc_Subtitles/DISPATCH_01025,"(DISPATCH)\\\\Obviously this endoskeleton that seems to want to kill you has encountered some unfortunate glitches,\\\\but that doesn't mean the idea isn't sound or valuable.",(调度员)\\\\显然，这个想杀你的内骨骼因为一些糟糕的故障变得危险，但这不代表这个设计没有价值。
-Loc_Subtitles/DISPATCH_00060,"(DISPATCH)\\\\Oh good, you found the Upgrade Station for the Data Diver. You’ll need it to reach the different areas in the complex.",(调度员)\\\\太好了，你找到了数据潜水者的升级站。你需要它才能进入设施里的其他区域。
+Loc_Subtitles/DISPATCH_00060,"(DISPATCH)\\\\Oh good, you found the Upgrade Station for the Data Diver. You’ll need it to reach the different areas in the complex.",(调度员)\\\\太好了，你找到了数据潜入器的升级站。你需要它才能进入设施里的其他区域。
 Loc_Subtitles/DISPATCH_00053,(DISPATCH)\\\\Oh my. It looks like we do have one big issue. ,(调度员)\\\\唔，看来我们有个大麻烦了。 
 Loc_Subtitles/DISPATCH_00071s,"(DISPATCH)\\\\Oh, and try to be careful along the way - we are seeing some strange readings in the area.",(调度员)\\\\另外，路上小心—我们这片区域监测到了一些异常读数。
 Loc_Subtitles/DISPATCH_00071,"(DISPATCH)\\\\Oh… Huh. Well, that is strange… Uhhh…\\\\Nothing to worry about. Just come back to the Security Office for further instruction.",(调度员)\\\\呃……这还真奇怪……不过没什么好担心的，回安全办公室听下步指示吧。
 Loc_Subtitles/DISPATCH_01016,"(DISPATCH)\\\\Ol' Murray made some neat stuff over the years, and unfortunately it seems that one of his most creative inventions may have encountered some...\\\\homicidal glitches in its programming.",(调度员)\\\\老默里这些年来造了不少奇妙的玩意儿，但很遗憾，他最有创意的一个发明，可能程序里出现了……杀人故障。
-Loc_Subtitles/DISPATCH_00328,"(DISPATCH)\\\\Once you put the Data Diver in the inventory system, you can clock out and get some rest. Go home. ",(调度员)\\\\等你把数据潜水者接入库存系统后，就可以打卡下班回家了。 
+Loc_Subtitles/DISPATCH_00328,"(DISPATCH)\\\\Once you put the Data Diver in the inventory system, you can clock out and get some rest. Go home. ",(调度员)\\\\等你把数据潜入器接入库存系统后，就可以打卡下班回家了。 
 Loc_Subtitles/DISPATCH_01061,(DISPATCH)\\\\Or a bunny. Running from danger. Scared and stupid. Searching for a hole to hide in.,(调度员)\\\\或者说你就像只兔子，拼命逃命，害怕又蠢，只想找个洞藏起来。
 Loc_Subtitles/DISPATCH_1061,(DISPATCH)\\\\Or a bunny. Running from danger. Scared and stupid. Searching for a hole to hide in.,(调度员)\\\\或者说你就像只兔子，拼命逃命，害怕又蠢，只想找个洞藏起来。
 Loc_Subtitles/DISPATCH_01007,"(DISPATCH)\\\\Our motion sensors indicate that someone is still inside the building moving around\\\\although the signal is a bit erratic, but we don't expect any kind of confrontation.",(调度员)\\\\我们的探测器显示，楼里还有人在活动，虽然信号有点不稳定，但应该不会有冲突发生。
@@ -1319,7 +1319,7 @@ Loc_Subtitles/DISPATCH_00034,(DISPATCH)\\\\Over and out.,(调度员)\\\\完毕�
 Loc_Subtitles/DISPATCH_00034A,(DISPATCH)\\\\Over and out.,(调度员)\\\\完毕。
 Loc_Subtitles/DISPATCH_00503,(DISPATCH)\\\\Please report to the security office.,(调度员)\\\\请前往安全办公室。
 Loc_Subtitles/DISPATCH_00507,(DISPATCH)\\\\Please respond. Over.,(调度员)\\\\请回应，完毕。
-Loc_Subtitles/DISPATCH_00325,(DISPATCH)\\\\Put that Data Diver in the inventory system. It will go right to where it is needed. ,(调度员)\\\\把数据潜水者接入库存系统，它会被自动送到需要的地方。 
+Loc_Subtitles/DISPATCH_00325,(DISPATCH)\\\\Put that Data Diver in the inventory system. It will go right to where it is needed. ,(调度员)\\\\把数据潜入器接入库存系统，它会被自动送到需要的地方。 
 Loc_Subtitles/DISPATCH_00112,(DISPATCH)\\\\Read the sign. That is a no-exit door.,(调度员)\\\\请看清标志，那是无出口门。
 Loc_Subtitles/DISPATCH_00506,(DISPATCH)\\\\Respond. Over.,(调度员)\\\\请回应，完毕。
 Loc_Subtitles/DISPATCH_00055,(DISPATCH)\\\\Restoring power should be your first priority… Unless you enjoy fumbling around in the dark all night. ,(调度员)\\\\你现在的头等大事就是恢复电力……除非你喜欢整夜在黑里瞎摸。 
@@ -1337,9 +1337,9 @@ Loc_Subtitles/DISPATCH_00433_FIONA_00414,(DISPATCH)\\\\Stop… I need that…,(�
 Loc_Subtitles/Dispatch_F10N4_015,(DISPATCH)\\\\Stop… I need that…,(调度员)\\\\住手……那个我还需要……
 Loc_Subtitles/DISPATCH_00402,(DISPATCH)\\\\That area is off limits.,(调度员)\\\\那个区域禁止入内。
 Loc_Subtitles/DISPATCH_00080,(DISPATCH)\\\\That was quick.,(调度员)\\\\动作还挺快的嘛。
-Loc_Subtitles/DISPATCH_00032A,(DISPATCH)\\\\That “Data Diver” is your master key to the MCM facility. Do not lose it.,(调度员)\\\\那台“数据潜水者”是你进出MCM设施的万能钥匙，千万别弄丢了。
+Loc_Subtitles/DISPATCH_00032A,(DISPATCH)\\\\That “Data Diver” is your master key to the MCM facility. Do not lose it.,(调度员)\\\\那台“数据潜入器”是你进出MCM设施的万能钥匙，千万别弄丢了。
 Loc_Subtitles/DISPATCH_00090,(DISPATCH)\\\\That's the big machine in the Security Office. Should be active…now.,(调度员)\\\\那就是安保办公室的大机器。现在应该启动了……
-Loc_Subtitles/DISPATCH_00323,(DISPATCH)\\\\The Data Diver has Exec permissions and you found the blueprints. ,(调度员)\\\\数据潜水者有高权限，你还拿到了蓝图。 
+Loc_Subtitles/DISPATCH_00323,(DISPATCH)\\\\The Data Diver has Exec permissions and you found the blueprints. ,(调度员)\\\\数据潜入器有高权限，你还拿到了蓝图。 
 Loc_Subtitles/DISPATCH_00109,(DISPATCH)\\\\The Lobby doors have been locked by some “showtime” run errors whatever that means.,(调度员)\\\\大厅的门被什么“表演时间”运行错误给锁了—这啥意思我也说不清。
 Loc_Subtitles/DISPATCH_00310a,(DISPATCH)\\\\The best way to the Admin wing is through the warehouse.\\\\That’s the big room you’ve been standing in front of all night.,(调度员)\\\\去管理区最佳路线得穿过仓库。也就是你整个晚上都站在门口的那个大房间。
 Loc_Subtitles/DISPATCH_01049,"(DISPATCH)\\\\The previous technicians considered it an honor to lose limbs in the service of their company,\\\\and I'm sure they would tell you that themselves if they hadn't died from blood loss.",(调度员)\\\\前任技术员们觉得为公司断胳膊断腿是光荣，要不是失血过多死了现在肯定会亲口告诉你。
@@ -1356,9 +1356,9 @@ Loc_Subtitles/DISPATCH_01045,(DISPATCH)\\\\This 'Mimic' endoskeleton then copied
 Loc_Subtitles/DISPATCH_00422,(DISPATCH)\\\\This area is off limits.,(调度员)\\\\这里是禁区，禁止进入。
 Loc_Subtitles/Dispatch_F10N4_003,(DISPATCH)\\\\This area is off limits.,(调度员)\\\\这里是禁区，禁止进入。
 Loc_Subtitles/DISPATCH_00305,(DISPATCH)\\\\This is exactly what we've been looking for all night. ,(调度员)\\\\这正是我们整晚在寻找的东西。 
-Loc_Subtitles/DISPATCH_00025,"(DISPATCH)\\\\To access the building, you have been provided with a “Data Diver” tool.",(调度员)\\\\为了进入大楼，你收到了一件“数据潜水者”工具。
+Loc_Subtitles/DISPATCH_00025,"(DISPATCH)\\\\To access the building, you have been provided with a “Data Diver” tool.",(调度员)\\\\为了进入大楼，你收到了一件“数据潜入器”工具。
 Loc_Subtitles/DISPATCH_01047,"(DISPATCH)\\\\Unfortunately, we came up with those ideas before the last technicians were sent in,\\\\and they ended up with less than positive results.",(调度员)\\\\很遗憾，我们在上一批技术员进去前就想到了这些对策，结果反而很惨。
-Loc_Subtitles/DISPATCH_00057A,(DISPATCH)\\\\Use that Data Diver upgrade machine. It should give you clearance to open the door.,(调度员)\\\\去用那个数据潜水者升级机吧，它会让你获得开门权限。
+Loc_Subtitles/DISPATCH_00057A,(DISPATCH)\\\\Use that Data Diver upgrade machine. It should give you clearance to open the door.,(调度员)\\\\去用那个数据潜入器升级机吧，它会让你获得开门权限。
 Loc_Subtitles/DISPATCH_01046,(DISPATCH)\\\\We came up with some great ideas on how to protect yourself.,(调度员)\\\\我们想出了一些保护你自身的好办法。
 Loc_Subtitles/DISPATCH_01050,"(DISPATCH)\\\\We expect you'll succeed where they failed. One out of three Fazbear Employees has confidence in you, so go get 'em tiger!",(调度员)\\\\我们希望你能做得比他们更好。至今有三分之一的费兹熊员工相信你，所以放手去干吧，虎仔！
 Loc_Subtitles/DISPATCH_01005,(DISPATCH)\\\\We had this contractor named Edwin Murray; he was developing some tech for us but he's gone quiet.,(调度员)\\\\我们有个叫埃德温·默里的合同工；他曾为我们开发设备，但他现在彻底失联了。
@@ -1415,7 +1415,7 @@ Loc_Subtitles/DISPATCH_00343,(DISPATCH)\\\\You're not fooling anyone.,(调度员
 Loc_Subtitles/DISPATCH_00334,(DISPATCH)\\\\You've been doing so well all night.,(调度员)\\\\你这整晚表现得都很出色。
 Loc_Subtitles/DISPATCH_00339,(DISPATCH)\\\\You've done everything you came here to do.,(调度员)\\\\你已经完成了自己该做的所有事。
 Loc_Subtitles/DISPATCH_00328a,(DISPATCH)\\\\You've used it before. Don't pretend you don't know how it works. ,(调度员)\\\\你之前用过它，别装作不懂它怎么用。 
-Loc_Subtitles/DISPATCH_01032,"(DISPATCH)\\\\Your Data Diver doesn't have executive permission yet, so you can't get anywhere near it.",(调度员)\\\\你的数据潜水者还没有高权限，所以你根本接近不了那边。
+Loc_Subtitles/DISPATCH_01032,"(DISPATCH)\\\\Your Data Diver doesn't have executive permission yet, so you can't get anywhere near it.",(调度员)\\\\你的数据潜入器还没有高权限，所以你根本接近不了那边。
 Loc_Subtitles/DISPATCH_00408,(DISPATCH)\\\\You’re not going to make it out of here alive.,(调度员)\\\\你可别指望能活着离开这里。
 Loc_Subtitles/EDWIN_00230,"(EDWIN)\\\\""But Edwin, how does it work?"" you may ask. Well, we collect various discarded materials. ",(埃德温)\\\\"但埃德温，这东西到底是怎么工作的呢？”你可能会问。呃，就是我们会把各种丢弃的材料收集起来。 
 Loc_Subtitles/EDWIN_00229,"(EDWIN)\\\\(Laughs) Oh. Get back to work, you. ",(埃德温)\\\\(笑)哎呀。你赶紧去干活吧。 
@@ -2759,8 +2759,8 @@ NewStringTable/Loc_Achievements_Desc_12,Get jumpscared.,被惊吓一次。
 NewStringTable/Loc_Achievements_Title_1,Golden Hours,黄金时刻
 NewStringTable/Loc_Achievements_Title_23,Good Listener,好听众
 NewStringTable/Loc_Achievements_Title_20,"Good Night, Sleep Tight",晚安，好梦
-NewStringTable/Loc_Achievements_Desc_2,Hand over the Data Diver and leave the building. A job well done! ,交出数据潜水者并离开大楼，任务圆满完成！ 
-NewStringTable/Loc_Achievements_Desc_3,Keep the Data Diver and walk off the job.,把数据潜水者留下，自行离开工作岗位。
+NewStringTable/Loc_Achievements_Desc_2,Hand over the Data Diver and leave the building. A job well done! ,交出数据潜入器并离开大楼，任务圆满完成！ 
+NewStringTable/Loc_Achievements_Desc_3,Keep the Data Diver and walk off the job.,把数据潜入器留下，自行离开工作岗位。
 NewStringTable/Loc_Achievements_Desc_22,Knock out all the teeth in a single round of ball toss.,在单局投球游戏中把所有牙齿都击掉。
 NewStringTable/Loc_Achievements_Desc_23,Listen to every Audio Log.,听完全部音频日志。
 NewStringTable/Loc_Achievements_Title_19,Mail Call,邮件到！
