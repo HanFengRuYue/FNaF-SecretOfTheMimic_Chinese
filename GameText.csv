@@ -101,7 +101,7 @@ Revenue for Q3: -$5000","余额：$500
 /Loc_UI_MainTerminal_Logs_Details,Details,详细信息
 /Loc_UI_OptionsMenu_Deuternopia,Deuternopia,绿视盲(Deuternopia)
 /Loc_UI_Autosave_Text1,"Do not turn off the power
-when you see this symbol."," 当你看到此符号时。
+when you see this symbol.","   当你看到此符号时。
         请不要断电!"
 /Loc_UI_Menus_ControlsOptions_Down,Down,向下
 /Loc_UI_Options_Controls_Drop,Drop,丢弃
@@ -1081,7 +1081,7 @@ Loc_Subtitles/ARNOLD_00101,"(ARNOLD)\\\\Ah, man! That- that- That thing tried to
 Loc_Subtitles/ARNOLD_00007,(ARNOLD)\\\\Doesn’t look like anyone’s here. ,(阿诺德)\\\\看来这里没人。 
 Loc_Subtitles/ARNOLD_01007,(ARNOLD)\\\\I did everything you told me to.,(阿诺德)\\\\我已经全照你说的做了。
 Loc_Subtitles/ARNOLD_01003,(ARNOLD)\\\\I hate you.,(阿诺德)\\\\我恨你。
-Loc_Subtitles/ARNOLD_00006,(ARNOLD)\\\\I just pulled up.,(阿诺德)\\\\我刚到而已。
+Loc_Subtitles/ARNOLD_00006,(ARNOLD)\\\\I just pulled up.,(阿诺德)\\\\我刚到了。
 Loc_Subtitles/ARNOLD_01006,(ARNOLD)\\\\No! I gave it to you!,(阿诺德)\\\\不是！东西已经给你了！
 Loc_Subtitles/ARNOLD_00201,"(ARNOLD)\\\\Oh no no no! I almost died again!!\\\\You need to send help! Get me out of here, now!!",(阿诺德)\\\\不不不！我又差点死了！！快派人来救我！马上带我离开这里！！
 Loc_Subtitles/ARNOLD_00008,(ARNOLD)\\\\Okay... how am I supposed to get in?,(阿诺德)\\\\那我应该怎么进去？
@@ -1272,7 +1272,7 @@ Loc_Subtitles/DISPATCH_01060,"(DISPATCH)\\\\In many ways, tonight has been a com
 Loc_Subtitles/DISPATCH_00420,"(DISPATCH)\\\\It cannot see you in that suit, but I can.",(调度员)\\\\那套套装里面它看不到你，但我可能看得清清楚楚。
 Loc_Subtitles/DISPATCH_00415,(DISPATCH)\\\\It followed you.,(调度员)\\\\它跟着你来了。
 Loc_Subtitles/DISPATCH_00057,"(DISPATCH)\\\\It looks like you don’t have a security level high enough to leave this office, or enter the power room for that matter. ",(调度员)\\\\看来你的安全权限还不够高，既不能离开这个办公室，也进不了配电室。 
-Loc_Subtitles/DISPATCH_00027,(DISPATCH)\\\\It should be in the van. Ritchie slipped it in your tool box during the last job. Just in case…,(调度员)\\\\那东西应该还在货车上。上次行动时，Ritchie顺手塞进了你的工具箱。以防万一……
+Loc_Subtitles/DISPATCH_00027,(DISPATCH)\\\\It should be in the van. Ritchie slipped it in your tool box during the last job. Just in case…,(调度员)\\\\那东西应该还在货车上。上次行动时，里奇顺手塞进了你的工具箱。以防万一……
 Loc_Subtitles/DISPATCH_00416,(DISPATCH)\\\\It will catch you.,(调度员)\\\\它会抓到你。
 Loc_Subtitles/DISPATCH_01043,(DISPATCH)\\\\It would mimic the actions of those around it.,(调度员)\\\\它会模仿身边人的举动。
 Loc_Subtitles/DISPATCH_00330,(DISPATCH)\\\\It's locked. ,(调度员)\\\\锁上了。 
