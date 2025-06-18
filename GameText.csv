@@ -37,7 +37,7 @@ All power quotas must be met before leaving the facility.","拒绝访问。
 /Loc_UI_UpgradeStation_AdminUpgradeStation_Text1,Admin Permission Gained!,已获得管理员权限！
 /Loc_UI_Subterminals_AdminWingSurv_TerminalName,Admin Surveillance controls 1.00,管理端监控控制 1.00
 /Loc_UI_UpgradeStation_AdminUpgrade,Admin Upgrade,管理员升级
-/Loc_UI_Subterminals_AdminWing_TerminalName,Admin Wing controls 1.00,管理区控制 1.00
+/Loc_UI_Subterminals_AdminWing_TerminalName,Admin Wing controls 1.00,行政区控制 1.00
 /Loc_UI_OptionsMenu_Anti-Alias,Anti-Alias,抗锯齿
 /Loc_UI_OptionsBottomBar_Apply,Apply,应用
 /Loc_UI_Widgets_GameMenu_PopUps_NewGameConfirmation_Text1,Are you sure?,你确定吗？
@@ -57,7 +57,7 @@ Revenue for Q3: -$5000","余额：$500
 /Loc_UI_DLSS_balanced,Balanced,均衡
 /E624801F4C647E71970B2B9CAECDF6F3,Birthday Film - Blue,生日胶片-蓝
 /74D792CD449D19227AD2FF93C64B350E,Birthday Film - Green,生日胶片-绿
-/50381B394A8F63B71F433ABC3D93B8B8,Birthday Film - Magenta,生日胶片-洋红
+/50381B394A8F63B71F433ABC3D93B8B8,Birthday Film - Magenta,生日胶片-红
 /C74C544F4A2CEE8F0947B49490218614,Birthday Film - Red,生日胶片-红
 /1651682949F28399E24B80A26FB48E4D,Birthday Film - Yellow,生日胶片-黄
 /Loc_UI_OptionsMenu_BorderlessWIndowed,Borderless Windowed,无边框窗口
@@ -101,7 +101,7 @@ Revenue for Q3: -$5000","余额：$500
 /Loc_UI_MainTerminal_Logs_Details,Details,详细信息
 /Loc_UI_OptionsMenu_Deuternopia,Deuternopia,绿视盲(Deuternopia)
 /Loc_UI_Autosave_Text1,"Do not turn off the power
-when you see this symbol.","当你看到此符号时。
+when you see this symbol."," 当你看到此符号时。
         请不要断电!"
 /Loc_UI_Menus_ControlsOptions_Down,Down,向下
 /Loc_UI_Options_Controls_Drop,Drop,丢弃
@@ -256,7 +256,7 @@ MIMIC","原型
 /Loc_UI_Menus_ControlsOptions_PauseMenu,Pause Menu,暂停菜单
 /Loc_UI_PauseMenu_Paused,Paused,已暂停
 /Loc_UI_DLSS_performance,Performance,性能
-/Loc_UI_Subterminals_Workshop_Text1,Pieces of updated Captain Springlock Suit can be found in the workshop. Full suit required to enter theater backstage.,更新后的船长弹簧锁套装部件可在工作间找到。进入剧院后台需全套套装。
+/Loc_UI_Subterminals_Workshop_Text1,Pieces of updated Captain Springlock Suit can be found in the workshop. Full suit required to enter theater backstage.,更新后的船长弹簧锁套装部件可在工坊找到。进入剧院后台需全套套装。
 /Loc_UI_OptionsMenu_Portuguese(Brazil),Portuguese (Brazil),葡萄牙语(巴西)
 /DA1291A7454E7EB7F85ADB9195BE3B5C,Position,位置
 /Loc_UI_OptionsMenu_Press&Hold,Press & Hold,按住
@@ -379,13 +379,13 @@ All guests must register with the front office before gaining access.","欢迎�
 /Loc_UI_MainTerminal_OptionsText4,[4] 2D GAME,[4] 2D游戏
 /Loc_UI_MainTerminal_OptionsText5,[ESC] ESCAPE,[ESC] 退出
 /Loc_UI_Subterminals_Selected,[Selected],[已选择]
-/Loc_UI_InventoryStation_Withdrawn,[Withdrawn],[已撤回]
+/Loc_UI_InventoryStation_Withdrawn,[Withdrawn],[已取出]
 /Loc_UI_Subterminals_DarkRide_TerminalName,dark ride office controls 1.00,黑暗乘骑办公室控制1.00
 /Loc_UI_Subterminals_IncineratorRoom_TerminalName,incinerator controls 1.00,焚化炉控制1.00
 /Loc_UI_Menus_ControlsOptions_Text4,is already bound to,已经绑定到
 /Loc_UI_Terminals_RootScreen_logs,logs,日志
 /Loc_UI_Terminals_RootScreen_maps,maps,地图
-/Loc_UI_Terminals_RootScreen_moon.exe,moon.exe,moon.exe
+/Loc_UI_Terminals_RootScreen_moon.exe,moon.exe,月亮.exe
 /Loc_UI_Subterminals_General_move,move,移动
 /Loc_UI_Subterminals_General_mrhelpful,mr. helpful,帮手先生
 /Loc_UI_Terminals_RootScreen_run:,run:,运行：
@@ -428,7 +428,7 @@ Loc_2DGame/Loc_2DGame_Act2_ForestPath_Text39,A forest path leads deeper into the
 Loc_2DGame/Loc_2DGame_Act2_DarkForest_Text27,A giant loom. Surprisingly it has survived the fire.,一台庞大的织布机。不知怎的，它竟在大火中幸存下来。
 Loc_2DGame/Loc_2DGame_Act3_CaveCrystal_Text14,A large blue crystal in the center of the room. It looks like there’s something inside...,房间中央矗立着一块巨大的蓝色水晶，里面好像有什么东西……
 Loc_2DGame/Loc_2DGame_Act2_ForestPath_Text4,"A lizard, a squirrel, and a snake are having a tea party. Nothing unusual.",一只蜥蜴、一只松鼠和一条蛇正围坐品茶，一切都平平常常。
-Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text14,A ruined workshop deep underground. Broken statues litter the ground. Another south passage leads deeper into the caves.,一间废弃已久的地下作坊，地上满是坏掉的雕像。向南还有一条通道通往更深的洞穴。
+Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text14,A ruined workshop deep underground. Broken statues litter the ground. Another south passage leads deeper into the caves.,一间废弃已久的工坊，地上满是坏掉的雕像。向南还有一条通道通往更深的洞穴。
 Loc_2DGame/Loc_2DGame_Act3_CaveEntrance_Text5,"A statue of the Baby Owl. You will bring him back, no matter the cost.",一尊小猫头鹰的雕像。无论付出多大代价，你都要把它带回来。
 Loc_2DGame/Loc_2DGame_Act3_CavePirateShip_Text6,"A strange, tall waterfall coming out of a stone cistern. There's an area behind it.",一道奇高的奇异瀑布从石制蓄水池中奔涌而下。瀑布后面似乎藏着什么地方。
 Loc_2DGame/Loc_2DGame_Act2_DarkForest_Text20,"A thick, muddy pond with a large boulder next to it.",一个厚重泥泞的池塘，旁边耸立着一块大巨石。
@@ -461,7 +461,7 @@ Loc_2DGame/Loc_2DGame_Act3_CaveEntrance_Text1,Cave Entrance,洞穴入口
 Loc_2DGame/Loc_2DGame_Act3_CaveHub_Text1,Cave Hub,洞穴中心
 Loc_2DGame/Loc_2DGame_Act3_CavePool_Text1,Cave Pool,洞穴水池
 Loc_2DGame/Loc_2DGame_Act3_CaveRuins_Text1,Cave Ruins,洞穴遗迹
-Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text1,Cave Workshop,洞穴工作坊
+Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text1,Cave Workshop,洞穴工坊
 Loc_2DGame/Loc_2DGame_Act3_Game_ChicaPartyRoom_Text1,Chica's Party Room,奇卡的派对房间
 Loc_2DGame/Loc_2DGame_Act1_Text34,Climb Out Window,爬出窗户
 Loc_2DGame/Loc_2DGame_Act3_Game_EmptyChicaPartyRoom_Text5,Climb up Stairs,爬上楼梯
@@ -549,7 +549,7 @@ Loc_2DGame/Loc_2DGame_Act2_DarkForestCabin_Text11,Give Honey Bottle to the Bear,
 Loc_2DGame/Loc_2DGame_Act3_Game_BigTopShowRoom_Text10,Give Ticket Book to Big Top,把票本交给蛛顶票王
 Loc_2DGame/Loc_2DGame_Act3_CaveRuins_Text9,Go Back to Entrance,返回入口
 Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text13,Go Back to Ruins,返回废墟
-Loc_2DGame/Loc_2DGame_Act3_CaveHub_Text19,Go Back to Workshop,返回作坊
+Loc_2DGame/Loc_2DGame_Act3_CaveHub_Text19,Go Back to Workshop,返回工坊
 Loc_2DGame/Loc_2DGame_Act1_Text2,Go To Bed,去睡觉
 Loc_2DGame/Loc_2DGame_Act2_DarkForestCabin_Text13,Go back to the Dark Forest,回到黑暗森林
 Loc_2DGame/Loc_2DGame_Act3_CaveRuins_Text8,Head Deeper Into Cave,深入洞穴
@@ -766,7 +766,7 @@ Loc_2DGame/Loc_2DGame_DarkForestWoOwl_Text6,These are ancient ruins of what was 
 Loc_2DGame/Loc_2DGame_Act3_CaveCrystal_Text5,These cystals are all misshapen. They look like pieces made from other crystals.,这些水晶形状奇怪，像是由碎裂的其他水晶拼凑而成。
 Loc_2DGame/Loc_2DGame_Act2_DarkForest_Text14,"This rock is beautiful on the outside, but dark things move under the surface, like worms through mud.",这块石头表面美丽，然而里面黑暗的东西在蠕动，像泥里的虫子。
 Loc_2DGame/Loc_2DGame_Act3_CaveRuins_Text5,This used to be a grand underground city. Now it's nothing but dust and silence.,这里曾是一座辉煌的地下城市，如今只剩寂静与尘埃。
-Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text2,"This used to be a workshop, filled with amazing machines. Now they sleep, never to awaken.",这里原本是间满是奇妙机器的作坊，现在机器沉睡不醒。
+Loc_2DGame/Loc_2DGame_Act3_CaveWorkshop_Text2,"This used to be a workshop, filled with amazing machines. Now they sleep, never to awaken.",这里原本是间满是奇妙机器的工坊，现在机器沉睡不醒。
 Loc_2DGame/Loc_2DGame_Act2_DarkForest_Text41,This way to the summit.,这条路通往山顶。
 Loc_2DGame/Loc_2DGame_Act2_ForestPath_Text33,Throw Soup at the Gator,向鳄鱼扔汤
 Loc_2DGame/Loc_2DGame_Act3_WelcomeShow_Text14,Ticket,门票
@@ -819,8 +819,8 @@ Loc_2DGame/Loc_2DGame_Act3_CavePool_Text8,You come across a crystal clear pool i
 Loc_2DGame/Loc_2DGame_Act1_Text3,You don't want to go to bed! Never again!,你就是不想睡觉！再也不想了！
 Loc_2DGame/Loc_2DGame_Act3_CaveCrystal_Text9,"You duck inside a strange, tiny door in the far wall.",你悄悄钻进远处墙上的一个奇形小门。
 Loc_2DGame/Loc_2DGame_Act3_Game_DavidsRoom_Text14,"You enter a child's bedroom. Three different toy boxes sit in the center, and a storybook is open on the bed.",你走进了一个儿童卧室。中央摆着三个不同的玩具箱，床上摊开着一本故事书。
-Loc_2DGame/Loc_2DGame_Act3_Game_ChicaPartyRoom_Text16,You enter the Admin Wing and find Party Time Chica waiting for you. She's blocking the only way out.,你进入管理员区，发现派对时间奇卡正等着你。她挡住了唯一的出口。
-Loc_2DGame/Loc_2DGame_Act3_Game_EmptyChicaPartyRoom_Text7,You enter the Admin Wing. Chica is gone and the stairs are now open.,你进入管理员区。奇卡已经离开，楼梯已开放。
+Loc_2DGame/Loc_2DGame_Act3_Game_ChicaPartyRoom_Text16,You enter the Admin Wing and find Party Time Chica waiting for you. She's blocking the only way out.,你进入行政区，发现派对时间奇卡正等着你。她挡住了唯一的出口。
+Loc_2DGame/Loc_2DGame_Act3_Game_EmptyChicaPartyRoom_Text7,You enter the Admin Wing. Chica is gone and the stairs are now open.,你进入行政区。奇卡已经离开，楼梯已开放。
 Loc_2DGame/Loc_2DGame_Act3_CaveEntrance_Text3,You exit the cave,你走出了洞穴。
 Loc_2DGame/Loc_2DGame_Act3_EmptyDollHospital_Text3,You exit through the Elevator.,你搭乘电梯离开。
 Loc_2DGame/Loc_2DGame_Act3_DollHospital_Text9,You find Junior Doctor's Kit on a table in the corner.,你在角落的桌子上找到儿科医生玩具包。
@@ -965,7 +965,7 @@ Loc_Inventory/Loc_Inventory_Collectables_VacuumPet,Vacuum Pet,吸尘宠物
 Loc_Inventory/Loc_Inventory_Collectables_WhiteTiger,White Tiger Doll,白虎玩偶
 Loc_Inventory/Loc_Inventory_Items_WindupMouse,Wind up Mouse,发条老鼠
 Loc_Locations/Loc_Locations_ADMIN,ADMIN,管理员
-Loc_Locations/Loc_Locations_ADMINWING,ADMIN WING,管理员区域
+Loc_Locations/Loc_Locations_ADMINWING,ADMIN WING,行政区
 Loc_Locations/Loc_Locations_AUDIENCESEATING,AUDIENCE SEATING,观众席
 Loc_Locations/Loc_Locations_Backstage,Backstage,后台
 Loc_Locations/Loc_Locations_BackstageStorage,Backstage Storage,后台储藏间
@@ -993,9 +993,9 @@ Loc_Locations/Loc_Locations_THEATER,THEATER,剧院
 Loc_Locations/Loc_Locations_TRIAGE,TRIAGE,分诊区
 Loc_Locations/Loc_Locations_UpperWarehouse,Upper Warehouse,上层仓库
 Loc_Locations/Loc_Locations_WAREHOUSE,WAREHOUSE,仓库
-Loc_Locations/Loc_Locations_WORKSHOP,WORKSHOP,工作坊
+Loc_Locations/Loc_Locations_WORKSHOP,WORKSHOP,工坊
 Loc_Locations/Loc_Locations_WarehouseFloor,Warehouse Floor,仓库地面
-Loc_Objective/Loc_Objective_Obj8_Text2,Access the Admin Wing through the Warehouse.,通过仓库进入管理员区域。
+Loc_Objective/Loc_Objective_Obj8_Text2,Access the Admin Wing through the Warehouse.,通过仓库进入行政区。
 Loc_Objective/Loc_Objective_Obj6_Text3,Build a Springlock Suit to access theater.,制作弹簧锁套装以进入剧院。
 Loc_Objective/Loc_Objective_Obj7_Text4,Collect and dump recycling cubes into trash chutes.,收集并把回收立方体倒进垃圾槽。
 Loc_Objective/Loc_Objective_Obj11_Text2,Enter the Security Office.,进入安保办公室。
@@ -1012,10 +1012,10 @@ Loc_Objective/Loc_Objective_Obj2_Text1,Find the elevator to the Manager’s Offi
 Loc_Objective/Loc_Objective_Obj2_Text2,Find the elevator to the Manager’s Office.,找到前往经理办公室的电梯。
 Loc_Objective/Loc_Objective_Obj4_Text8,Finish the Big Top Experience.,完成蛛顶票王体验。
 Loc_Objective/Loc_Objective_Obj9_Text1,Get back to the Security Office.,返回安保办公室。
-Loc_Objective/Loc_Objective_Obj8_Text1,Get the blueprints in the Admin Wing.,在管理员区域获取蓝图。
+Loc_Objective/Loc_Objective_Obj8_Text1,Get the blueprints in the Admin Wing.,在行政区获取蓝图。
 Loc_Objective/Loc_Objective_Obj1_Text4,Get to the Security Office.,到达安保办公室。
 Loc_Objective/Loc_Objective_Obj10_Text1,Give up the Data Diver.,交出数据潜入器。
-Loc_Objective/Loc_Objective_Obj6_Text2,Go through the Workshops to get to the Theater.,穿过工作坊前往剧院。
+Loc_Objective/Loc_Objective_Obj6_Text2,Go through the Workshops to get to the Theater.,穿过工坊前往剧院。
 Loc_Objective/Loc_Objective_Obj5_Text1,Head back to the Security Office through the roof access.,通过屋顶通道返回安保办公室。
 Loc_Objective/Loc_Objective_Obj13_Text1,Leave the Facility,离开这处设施。
 Loc_Objective/Loc_Objective_Obj1_Text2,Pick up Data Diver.,拾取数据潜入器。
@@ -1118,7 +1118,7 @@ Loc_Subtitles/CAPTAIN_00009,(CAPTAIN)\\\\Be gone! Boat-hugger!,(船长)\\\\走�
 Loc_Subtitles/CAPTAIN_00007,"(CAPTAIN)\\\\Curse ye, Foxy!",(船长)\\\\可恶，霍斯！
 Loc_Subtitles/CAPTAIN_00003,"(CAPTAIN)\\\\Decorations… First Mate Foxy, arr ye havin’ a parrrrty?",(船长)\\\\装饰品……一副手霍斯，你在办派对吗？
 Loc_Subtitles/CAPTAIN_00004,(CAPTAIN)\\\\Did ye forget pirate rule number 22 - NO PARRRTIES!! ,(船长)\\\\你忘了海盗守则第22条—禁止开派对！！ 
-Loc_Subtitles/CAPTAIN_00008,(CAPTAIN)\\\\Every sailor knows Rocktopi are drawn to boat parties!\\\\This is why sailors don’t have boat parties!,(船长)\\\\每个水手都知道石头章鱼最喜欢船上的派对！这就是水手绝不在船上办派对的原因！
+Loc_Subtitles/CAPTAIN_00008,(CAPTAIN)\\\\Every sailor knows Rocktopi are drawn to boat parties!\\\\This is why sailors don’t have boat parties!,(船长)\\\\每个水手都知道摇滚章鱼们最喜欢船上的派对！这就是水手绝不在船上办派对的原因！
 Loc_Subtitles/CAPTAIN_00019,(CAPTAIN)\\\\Fire in the hole!,(船长)\\\\开火！
 Loc_Subtitles/CAPTAIN_00013,"(CAPTAIN)\\\\Foxy, my birthday was LAST week!",(船长)\\\\霍斯，我的生日可是上周了！
 Loc_Subtitles/CAPTAIN_00012,"(CAPTAIN)\\\\Foxy, this party was for me??",(船长)\\\\霍斯，这场派对是给我办的？？
@@ -1169,7 +1169,7 @@ Loc_Subtitles/DISPATCH_01009,"(DISPATCH)\\\\Amazing. Thanks for being a part of 
 Loc_Subtitles/DISPATCH_01027,"(DISPATCH)\\\\And after you find that schematic for us, we can certainly try to maybe find a way to probably save your life from it. ",(调度员)\\\\等你帮我们找到那份图纸后，我们或许真能想点办法，试试看把你从那玩意儿手里救出来。 
 Loc_Subtitles/DISPATCH_00070B,(DISPATCH)\\\\And better news. The motion sensors are now active.,(调度员)\\\\还有好消息，动感传感器现在已经启动了。
 Loc_Subtitles/DISPATCH_01059,(DISPATCH)\\\\Another worker bee? A bumbling bee? Perhaps a busy bee.,(调度员)\\\\又是一只工蜂？还是一只冒冒失失的小蜜蜂？也可能是个勤快蜂吧。
-Loc_Subtitles/DISPATCH_00314,"(DISPATCH)\\\\Anyway, head through the warehouse and you should reach the Admin Wing... eventually.",(调度员)\\\\总之，穿过仓库，应该就能到管理区……迟早能到的。
+Loc_Subtitles/DISPATCH_00314,"(DISPATCH)\\\\Anyway, head through the warehouse and you should reach the Admin Wing... eventually.",(调度员)\\\\总之，穿过仓库，应该就能到行政区……迟早能到的。
 Loc_Subtitles/DISPATCH_00504,"(DISPATCH)\\\\Arnie, buddy, check in when you have a chance.",(调度员)\\\\阿尔尼，哥们，有空就回个信儿。
 Loc_Subtitles/DISPATCH_00405,"(DISPATCH)\\\\Arnie, buddy, you’re making a huge mistake.",(调度员)\\\\阿尔尼，老兄，你这是在犯大错啊。
 Loc_Subtitles/DISPATCH_01000,"(DISPATCH)\\\\Arnold! Hey buddy, this is dispatch with Fazbear Entertainment. How are you feeling? ",(调度员)\\\\阿诺德！嘿，伙计，这里是费斯熊娱乐的调度员。感觉怎么样？ 
@@ -1190,12 +1190,12 @@ Loc_Subtitles/DISPATCH_01044,"(DISPATCH)\\\\At some point the endoskeleton was e
 Loc_Subtitles/DISPATCH_01001,"(DISPATCH)\\\\Awesome to hear. Well listen, we need you to take one more shift for us since you're our closest technician in the area.",(调度员)\\\\很高兴听到这个。这样吧，你是这一带离我们最近的技术员，我们需要你再帮忙值一班。
 Loc_Subtitles/DISPATCH_01040,"(DISPATCH)\\\\Awesome, glad to see you made it here without any complications whatsoever!",(调度员)\\\\太好了，看到你一路顺利到这儿真让人高兴！
 Loc_Subtitles/DISPATCH_01035,"(DISPATCH)\\\\Before you go, take a hand crank for the security fence.",(调度员)\\\\在出发前，记得拿一只用于安全围栏的手摇曲柄。
-Loc_Subtitles/DISPATCH_00208,"(DISPATCH)\\\\But first, the system says the data diver was updated to include ""creator"" permissions.",(调度员)\\\\不过要先说明，系统显示数据驱动器已更新，增加了“创建者”权限。
+Loc_Subtitles/DISPATCH_00208,"(DISPATCH)\\\\But first, the system says the data diver was updated to include ""creator"" permissions.",(调度员)\\\\不过要先说明，系统显示数据驱动器已更新，增加了“创作者”权限。
 Loc_Subtitles/DISPATCH_00312,"(DISPATCH)\\\\But for whatever reason, the warehouse is only accessible to admin permission staff. Makes no sense to me. ",(调度员)\\\\但不知什么原因，仓库还是只能管理员权限的人进入。我也搞不懂为什么。 
 Loc_Subtitles/DISPATCH_01054,(DISPATCH)\\\\But you're just like the others. The other technicians. The workers.,(调度员)\\\\不过你也跟其他人一样，和那些技术员、工人没什么两样。
 Loc_Subtitles/DISPATCH_00319,(DISPATCH)\\\\Check in soon. ,(调度员)\\\\等会儿再联系。 
 Loc_Subtitles/DISPATCH_00056,(DISPATCH)\\\\Check out the computer map. You passed a power room on your way in.,(调度员)\\\\看看电脑上的地图。你进来的路上经过了一个配电房。
-Loc_Subtitles/DISPATCH_00211,(DISPATCH)\\\\Check the map. You can get there through the workshops.,(调度员)\\\\查看一下地图。你可以从车间过去。
+Loc_Subtitles/DISPATCH_00211,(DISPATCH)\\\\Check the map. You can get there through the workshops.,(调度员)\\\\查看一下地图。你可以从工坊过去。
 Loc_Subtitles/DISPATCH_00107,(DISPATCH)\\\\Check the monitor. I am sending you a camera feed. Go there.,(调度员)\\\\看一下监控，我正在给你发送摄像头画面，去那个位置。
 Loc_Subtitles/DISPATCH_00028,(DISPATCH)\\\\Check your tool box.,(调度员)\\\\检查一下你的工具箱。
 Loc_Subtitles/DISPATCH_00070,"(DISPATCH)\\\\Check, check, check. Testing. Testing.  One, two, three…",(调度员)\\\\检查、检查、检查。测试、测试。一、二、三……
@@ -1235,13 +1235,13 @@ Loc_Subtitles/DISPATCH_01018,"(DISPATCH)\\\\He was working on an endoskeleton th
 Loc_Subtitles/DISPATCH_00316,(DISPATCH)\\\\Head back to the Security Office. ,(调度员)\\\\回到安全办公室去吧。 
 Loc_Subtitles/DISPATCH_01051,(DISPATCH)\\\\Head back to where you first entered the building for further instructions.,(调度员)\\\\回到你一开始进入大楼的地方，等待进一步指示。
 Loc_Subtitles/DISPATCH_00337,(DISPATCH)\\\\Head on out. It's over.,(调度员)\\\\可以出发了，一切都结束了。
-Loc_Subtitles/DISPATCH_00212a,(DISPATCH)\\\\Hey buddy. You know where you're going?\\\\Look for the Workshops. Check your map if you're lost.,(调度员)\\\\嘿，伙计，你知道自己要去哪里吗？\\\\去找工作坊，如果迷路记得看看地图。
+Loc_Subtitles/DISPATCH_00212a,(DISPATCH)\\\\Hey buddy. You know where you're going?\\\\Look for the Workshops. Check your map if you're lost.,(调度员)\\\\嘿，伙计，你知道自己要去哪里吗？\\\\去找工坊，如果迷路记得看看地图。
 Loc_Subtitles/DISPATCH_00213,"(DISPATCH)\\\\Hey, Arnold, the system says you need a suit to get into the theater. ",(调度员)\\\\阿诺德，系统提示你需要一套套装才能进剧院。 
 Loc_Subtitles/DISPATCH_01010,"(DISPATCH)\\\\Hey, you made it! I knew you would!",(调度员)\\\\你做到了！我就知道你一定能行！
 Loc_Subtitles/DISPATCH_00428,(DISPATCH)\\\\How? I see you at the door. ,(调度员)\\\\怎么做到的？我明明看到你就在门口啊。 
 Loc_Subtitles/Dispatch_F10N4_010,(DISPATCH)\\\\How? I see you at the door. ,(调度员)\\\\怎么做到的？我明明看到你就在门口啊。 
 Loc_Subtitles/DISPATCH_00203,(DISPATCH)\\\\I am dying to know what happened in there.,(调度员)\\\\我特别想知道你在里面遇到什么了。
-Loc_Subtitles/DISPATCH_01030,"(DISPATCH)\\\\I can just smell that $25 gift certificate, can't you?",(调度员)\\\\我都能闻到那张25美元代金券的味道了，你是不是也闻到了？
+Loc_Subtitles/DISPATCH_01030,"(DISPATCH)\\\\I can just smell that $25 gift certificate, can't you?",(调度员)\\\\我都能闻到那张25美元礼品券的味道了，你是不是也闻到了？
 Loc_Subtitles/DISPATCH_00417,(DISPATCH)\\\\I cannot stop it.,(调度员)\\\\我没办法阻止它。
 Loc_Subtitles/DISPATCH_00340,(DISPATCH)\\\\I don't know why you're still here. ,(调度员)\\\\我不明白你为什么还留在这里。 
 Loc_Subtitles/DISPATCH_00306,(DISPATCH)\\\\I don't think you could possibly understand how important this work is. ,(调度员)\\\\我觉得你根本无法体会这项工作有多重要。 
@@ -1268,8 +1268,8 @@ Loc_Subtitles/DISPATCH_01028,"(DISPATCH)\\\\If that's not incentive enough to fi
 Loc_Subtitles/DISPATCH_00206,"(DISPATCH)\\\\If you are talking, I still can't hear you.",(调度员)\\\\如果你在说话，我还是一点没听见。
 Loc_Subtitles/DISPATCH_00050,"(DISPATCH)\\\\If you are there, pick up.",(调度员)\\\\如果你在的话，接一下。
 Loc_Subtitles/DISPATCH_00501,"(DISPATCH)\\\\If you can hear me, pick up.",(调度员)\\\\如果你能听见我，接个话。
-Loc_Subtitles/DISPATCH_01060,"(DISPATCH)\\\\In many ways, tonight has been a comedy of errors. A Jester would suit you well.",(调度员)\\\\今晚真是一场混乱的大闹剧，穿身小丑服还挺适合你的。
-Loc_Subtitles/DISPATCH_00420,"(DISPATCH)\\\\It cannot see you in that suit, but I can.",(调度员)\\\\那套衣服里面它看不到你，但我可能看得清清楚楚。
+Loc_Subtitles/DISPATCH_01060,"(DISPATCH)\\\\In many ways, tonight has been a comedy of errors. A Jester would suit you well.",(调度员)\\\\今晚真是一场混乱的大闹剧，穿身小丑套装还挺适合你的。
+Loc_Subtitles/DISPATCH_00420,"(DISPATCH)\\\\It cannot see you in that suit, but I can.",(调度员)\\\\那套套装里面它看不到你，但我可能看得清清楚楚。
 Loc_Subtitles/DISPATCH_00415,(DISPATCH)\\\\It followed you.,(调度员)\\\\它跟着你来了。
 Loc_Subtitles/DISPATCH_00057,"(DISPATCH)\\\\It looks like you don’t have a security level high enough to leave this office, or enter the power room for that matter. ",(调度员)\\\\看来你的安全权限还不够高，既不能离开这个办公室，也进不了配电室。 
 Loc_Subtitles/DISPATCH_00027,(DISPATCH)\\\\It should be in the van. Ritchie slipped it in your tool box during the last job. Just in case…,(调度员)\\\\那东西应该还在货车上。上次行动时，Ritchie顺手塞进了你的工具箱。以防万一……
@@ -1341,7 +1341,7 @@ Loc_Subtitles/DISPATCH_00032A,(DISPATCH)\\\\That “Data Diver” is your master
 Loc_Subtitles/DISPATCH_00090,(DISPATCH)\\\\That's the big machine in the Security Office. Should be active…now.,(调度员)\\\\那就是安保办公室的大机器。现在应该启动了……
 Loc_Subtitles/DISPATCH_00323,(DISPATCH)\\\\The Data Diver has Exec permissions and you found the blueprints. ,(调度员)\\\\数据潜入器有高权限，你还拿到了蓝图。 
 Loc_Subtitles/DISPATCH_00109,(DISPATCH)\\\\The Lobby doors have been locked by some “showtime” run errors whatever that means.,(调度员)\\\\大厅的门被什么“表演时间”运行错误给锁了—这啥意思我也说不清。
-Loc_Subtitles/DISPATCH_00310a,(DISPATCH)\\\\The best way to the Admin wing is through the warehouse.\\\\That’s the big room you’ve been standing in front of all night.,(调度员)\\\\去管理区最佳路线得穿过仓库。也就是你整个晚上都站在门口的那个大房间。
+Loc_Subtitles/DISPATCH_00310a,(DISPATCH)\\\\The best way to the Admin wing is through the warehouse.\\\\That’s the big room you’ve been standing in front of all night.,(调度员)\\\\去行政区最佳路线得穿过仓库。也就是你整个晚上都站在门口的那个大房间。
 Loc_Subtitles/DISPATCH_01049,"(DISPATCH)\\\\The previous technicians considered it an honor to lose limbs in the service of their company,\\\\and I'm sure they would tell you that themselves if they hadn't died from blood loss.",(调度员)\\\\前任技术员们觉得为公司断胳膊断腿是光荣，要不是失血过多死了现在肯定会亲口告诉你。
 Loc_Subtitles/DISPATCH_00204,"(DISPATCH)\\\\The system was flooded with alarms and alerts, and then it all stopped.",(调度员)\\\\一阵报警和提示音把系统搞得乱七八糟，紧接着全都消停了。
 Loc_Subtitles/DISPATCH_00057B,(DISPATCH)\\\\The upgrade machine should be active… now.,(调度员)\\\\升级机现在应该也能用了……
@@ -1566,12 +1566,12 @@ Loc_Subtitles/EDWIN_00208,"(EDWIN)\\\\Simply supply the ""Stage Manager"" with t
 Loc_Subtitles/EDWIN_00314,"(EDWIN)\\\\So, will you marry me? Please.",(埃德温)\\\\那么，你愿意嫁给我吗？拜托了。
 Loc_Subtitles/EDWIN_00612,"(EDWIN)\\\\Someone told them about M2. Well, they can't have it. ",(埃德温)\\\\有人把M2的事透露给他们了。但他们绝对得不到它。 
 Loc_Subtitles/EDWIN_00648,(EDWIN)\\\\Stop talking like her. You’re not her. I never want to hear or even think about you ever again. Ever!,(埃德温)\\\\别再学她说话了，你不是她。我再也不想听到你，甚至不想再想起你，永远！
-Loc_Subtitles/EDWIN_00608,(EDWIN)\\\\Test test... journal entry. I got the change order from Hen last night. ,(埃德温)\\\\测试，测试……日志记录。我昨晚收到亨的更改单了。 
+Loc_Subtitles/EDWIN_00608,(EDWIN)\\\\Test test... journal entry. I got the change order from Hen last night. ,(埃德温)\\\\测试，测试……日志记录。我昨晚收到亨利的更改单了。 
 Loc_Subtitles/EDWIN_00637,(EDWIN)\\\\That’s great! Do you mind if I record you for a test?,(埃德温)\\\\太棒了！我能录一下你的声音做个测试吗？
 Loc_Subtitles/EDWIN_00504,(EDWIN)\\\\That’s right!,(埃德温)\\\\没错！
 Loc_Subtitles/EDWIN_00216,"(EDWIN)\\\\The MCM Studio comes equipped with automated cameras, props and lights. ",(埃德温)\\\\MCM工作室配备了自动摄像机、道具和灯光。 
 Loc_Subtitles/EDWIN_00001,(EDWIN)\\\\The MCM facility is temporarily closed.,(埃德温)\\\\MCM设施暂时关闭。
-Loc_Subtitles/EDWIN_00002,(EDWIN)\\\\The MCM workshops are temporarily closed.,(埃德温)\\\\MCM工作坊暂时关闭。
+Loc_Subtitles/EDWIN_00002,(EDWIN)\\\\The MCM workshops are temporarily closed.,(埃德温)\\\\MCM工坊暂时关闭。
 Loc_Subtitles/EDWIN_00540,(EDWIN)\\\\The bear saw everyone arguing! The group yelled and gnashed their teeth and it scared the Bear and he ran away! ,(埃德温)\\\\那只熊看到大家吵成一团！人们大喊大叫、咬牙切齿，把熊吓得赶紧跑开了！ 
 Loc_Subtitles/EDWIN_00513,(EDWIN)\\\\The bouncy blue bunny hopped through the forest down to the garden patch. ,(埃德温)\\\\蹦蹦跳跳的蓝色兔子穿过森林，来到菜园。 
 Loc_Subtitles/EDWIN_00543,(EDWIN)\\\\The bunny saw everyone arguing! The group yelled and gnashed their teeth and it scared the bunny and he ran away! ,(埃德温)\\\\兔子看到大家吵成一团！人们大喊大叫、咬牙切齿，把兔子吓得撒腿就跑！ 
@@ -1591,7 +1591,7 @@ Loc_Subtitles/EDWIN_00531,"(EDWIN)\\\\Then the crafty fox came over and challeng
 Loc_Subtitles/EDWIN_00551,(EDWIN)\\\\They all started a band and lived happily ever after. The End.,(埃德温)\\\\他们后来一起组了乐队，从此幸福快乐地生活在一起。故事结束。
 Loc_Subtitles/EDWIN_00526,(EDWIN)\\\\They had so much fun! Do you remember what happens next?,(埃德温)\\\\他们玩得真开心！你还记得接下来发生了什么吗？
 Loc_Subtitles/EDWIN_00629,(EDWIN)\\\\Think of it as your new babysitter. But it doesn’t get paid and go home. It’ll stay with us and help around the house.,(埃德温)\\\\就把它当作你新的保姆吧，不过它既不领工资，也不会回家。它会一直陪着我们，帮我们做家务。
-Loc_Subtitles/EDWIN_00219,(EDWIN)\\\\This Example Show is written and performed by a single costumed writer-director-cameraman-puppeteer-producer in front of an automated studio audience. ,(埃德温)\\\\这个例子节目(Example Show)是由一位身兼编剧、导演、摄像、木偶师和制片人的演员在全自动演播厅观众面前独自创作并表演的。 
+Loc_Subtitles/EDWIN_00219,(EDWIN)\\\\This Example Show is written and performed by a single costumed writer-director-cameraman-puppeteer-producer in front of an automated studio audience. ,(埃德温)\\\\这个例子节目是由一位身兼编剧、导演、摄像、木偶师和制片人的演员在全自动演播厅观众面前独自创作并表演的。 
 Loc_Subtitles/EDWIN_00005,(EDWIN)\\\\This client tour will show you just what I’m capable of… get ready to be amazed.,(埃德温)\\\\这次客户参观会让你见识到我的本事……准备好大吃一惊吧。
 Loc_Subtitles/EDWIN_00718,(EDWIN)\\\\This is great! He’s gonna love it! ,(埃德温)\\\\太棒了！他一定会喜欢的！ 
 Loc_Subtitles/EDWIN_00706A,(EDWIN)\\\\This is it. This is the one. Bigger than the Clean-o-Vac!,(埃德温)\\\\就是它。这就是我要找的！比Clean-o-Vac还要厉害！
@@ -1775,7 +1775,7 @@ Loc_Subtitles/FIONA_00630,(FIONA)\\\\It’s hard to explain… I just have this 
 Loc_Subtitles/FIONA_00606,(FIONA)\\\\It’s hard to explain… I just have this terrible feeling like\\\\I need to be there so nothing goes wrong.\\\\Just in case.,(菲奥娜)\\\\这很难解释……我就是有种很糟糕的预感，\\\\觉得必须得在场，事情才不会出岔子。\\\\只为以防万一。
 Loc_Subtitles/FIONA_00615,(FIONA)\\\\It’s not safe. They wouldn’t understand.,(菲奥娜)\\\\这里不安全。他们不会理解的。
 Loc_Subtitles/FIONA_00632C,"(FIONA)\\\\It’s your company now. Your dad believed in you. Otherwise, he wouldn’t have left it to you.",(菲奥娜)\\\\现在公司是你的了。你爸爸相信你，否则他也不会把公司留给你。
-Loc_Subtitles/FIONA_00239,(FIONA)\\\\I’m worried about the new suit design. ,(菲奥娜)\\\\我对新款制服的设计还有点担心。 
+Loc_Subtitles/FIONA_00239,(FIONA)\\\\I’m worried about the new suit design. ,(菲奥娜)\\\\我对新款套装的设计还有点担心。 
 Loc_Subtitles/FIONA_00624,(FIONA)\\\\I’ve never seen one like that before.,(菲奥娜)\\\\我之前从没见过那种款式。
 Loc_Subtitles/FIONA_00616,(FIONA)\\\\Keep it between us for now.,(菲奥娜)\\\\这件事先只我们知道就好。
 Loc_Subtitles/FIONA_00211,(FIONA)\\\\Make sure the emergency brake is engaged.,(菲奥娜)\\\\一定要把紧急刹车拉好。
@@ -1825,7 +1825,7 @@ Loc_Subtitles/DISPATCH_00424_FIONA_00405,(FIONA)\\\\Stop what you are doing.,(�
 Loc_Subtitles/FIONA_00430,(FIONA)\\\\Tell Edwin I still love him.,(菲奥娜)\\\\帮我告诉埃德温—我依然爱他。
 Loc_Subtitles/FIONA_00428,(FIONA)\\\\That is all that I want.,(菲奥娜)\\\\这就是我唯一的心愿。
 Loc_Subtitles/FIONA_706,"(FIONA)\\\\That's great Honey, but you're missing the party...",(菲奥娜)\\\\你做得很好，亲爱的，可是你正好错过了聚会……
-Loc_Subtitles/FIONA_00806,"(FIONA)\\\\That’s Murray’s secret recipe. The Stay Up Latte creates the perfect cup of coffee suited to you, based on your coffee habits.",(菲奥娜)\\\\这是默里的独家秘方。“醒神拿铁”会根据你的咖啡习惯，为你量身定制一杯最适合你的完美咖啡。
+Loc_Subtitles/FIONA_00806,"(FIONA)\\\\That’s Murray’s secret recipe. The Stay Up Latte creates the perfect cup of coffee suited to you, based on your coffee habits.",(菲奥娜)\\\\这是默里的独家秘方。“熬夜拿铁”会根据你的咖啡习惯，为你量身定制一杯最适合你的完美咖啡。
 Loc_Subtitles/FIONA_00627,(FIONA)\\\\That’s a great name. And I would be delighted to help. What kind of voice should I do?,(菲奥娜)\\\\这个名字真不错。我很乐意帮忙！你想让我用什么样的声音录制呢？
 Loc_Subtitles/FIONA_00706,"(FIONA)\\\\That’s great, Honey, but you’re missing the party.",(菲奥娜)\\\\你很棒，亲爱的，可是聚会你没赶上哦。
 Loc_Subtitles/FIONA_00706a,"(FIONA)\\\\That’s great, Honey, but you’re missing the party.",(菲奥娜)\\\\你做得真好，亲爱的，可你已经错过聚会啦。
@@ -1930,12 +1930,12 @@ Loc_Subtitles/JACKIE_00001,(JACKIE)\\\\Time to play.,(杰基)\\\\该玩游戏啦
 Loc_Subtitles/JACKIE_00002,(JACKIE)\\\\Time to play.,(杰基)\\\\该玩游戏啦。
 Loc_Subtitles/JESTER_AD_00001,(JESTER)\\\\HAHAHAHAHAHAHAHAHA!,(小丑)\\\\哈哈哈哈哈哈哈哈哈哈！
 Loc_Subtitles/JESTER_AD_00002,(JESTER)\\\\JEST KIDDING! HAHAHAHAHAHAHAHAHA! JEST KIDDING!,(小丑)\\\\开个玩笑！哈哈哈哈哈哈哈！开个玩笑啦！
-Loc_Subtitles/DAVID_00003,(KID)\\\\(Laughs),(KID)\\\\(笑)
-Loc_Subtitles/DAVID_00004,(KID)\\\\Just kidding!,(KID)\\\\逗你玩呢！
-Loc_Subtitles/DAVID_00002,(KID)\\\\This tastes funny...,(KID)\\\\这个味道怪怪的……
-Loc_Subtitles/DAVID_00001,(KID)\\\\Ugh...,(KID)\\\\呃……
-Loc_Subtitles/TOY_AD_KID_00001,(KID)\\\\Wow!,(KID)\\\\哇哦！
-Loc_Subtitles/TOY_AD_KID_00002,(KID)\\\\You're my only friend.,(KID)\\\\你是我唯一的朋友。
+Loc_Subtitles/DAVID_00003,(KID)\\\\(Laughs),(小孩)\\\\(笑)
+Loc_Subtitles/DAVID_00004,(KID)\\\\Just kidding!,(小孩)\\\\逗你玩呢！
+Loc_Subtitles/DAVID_00002,(KID)\\\\This tastes funny...,(小孩)\\\\这个味道怪怪的……
+Loc_Subtitles/DAVID_00001,(KID)\\\\Ugh...,(小孩)\\\\呃……
+Loc_Subtitles/TOY_AD_KID_00001,(KID)\\\\Wow!,(小孩)\\\\哇哦！
+Loc_Subtitles/TOY_AD_KID_00002,(KID)\\\\You're my only friend.,(小孩)\\\\你是我唯一的朋友。
 Loc_Subtitles/KIT_00001,"(KIT)\\\\Ahoy, Foxy…",(KIT)\\\\哟，狐狸……
 Loc_Subtitles/KIT_00003,(KIT)\\\\Foxy! You did it! You did it! You found the perfect present for the Captain!,(KIT)\\\\霍斯！你真棒！你做到了！你帮船长找到了最完美的礼物！
 Loc_Subtitles/KIT_00002,(KIT)\\\\I’m sad BECAUSE today is the big surprise party. I forgot to get a gift. It’s a disaster!,(KIT)\\\\我很难过，因为今天就是那个盛大的惊喜派对，可我竟然忘了准备礼物，简直太糟糕了！
@@ -1949,60 +1949,60 @@ Loc_Subtitles/MIMIC2_00403,"(M2)\\\\Note to self. A portable cleaner that gets r
 Loc_Subtitles/MIMIC2_00405,(M2)\\\\Speaking of legs. What do you think? I just finished mine.,(M2)\\\\说到腿，你觉得怎么样？我刚把我的做完。
 Loc_Subtitles/MIMIC2_00401,(M2)\\\\Test test… Journal entry. Too bad. The new power test was a failure.,(M2)\\\\测试测试……日记记录。真可惜，这次新的动力测试又失败了。
 Loc_Subtitles/MIMIC2_00406,(M2)\\\\There are still a few kinks to work out…,(M2)\\\\还有几个小问题要解决……
-Loc_Subtitles/MANN_00127,"(MANNEQUIN)\\\\Buy, buy, buy!",(静模假人)\\\\买买买！
-Loc_Subtitles/MANN_00127_chase,"(MANNEQUIN)\\\\Buy, buy, buy!",(静模假人)\\\\买买买！
-Loc_Subtitles/MANN_00117,(MANNEQUIN)\\\\Games of chance are my favorite.,(静模假人)\\\\我最喜欢机会类的游戏了。
-Loc_Subtitles/MANN_00117_chase,(MANNEQUIN)\\\\Games of chance are my favorite.,(静模假人)\\\\我最喜欢机会类的游戏了。
-Loc_Subtitles/MANN_00116,(MANNEQUIN)\\\\Games of skill are my favorite.,(静模假人)\\\\我最喜欢技巧类的游戏了。
-Loc_Subtitles/MANN_00116_chase,(MANNEQUIN)\\\\Games of skill are my favorite.,(静模假人)\\\\我最喜欢技巧类的游戏了。
-Loc_Subtitles/MANN_00113,(MANNEQUIN)\\\\I am having so much fun.,(静模假人)\\\\我玩得太开心了。
-Loc_Subtitles/MANN_00113_chase,(MANNEQUIN)\\\\I am having so much fun.,(静模假人)\\\\我玩得太开心了。
-Loc_Subtitles/MANN_00126,(MANNEQUIN)\\\\I am intrigued.,(静模假人)\\\\这真有意思。
-Loc_Subtitles/MANN_00126_chase,(MANNEQUIN)\\\\I am intrigued.,(静模假人)\\\\这真有意思。
-Loc_Subtitles/MANN_00130,(MANNEQUIN)\\\\I can’t get enough of this high value entertainment.,(静模假人)\\\\这种有趣的娱乐，我玩多少都不够。
-Loc_Subtitles/MANN_00130_chase,(MANNEQUIN)\\\\I can’t get enough of this high value entertainment.,(静模假人)\\\\这种有趣的娱乐，我玩多少都不够。
-Loc_Subtitles/MANN_00111,(MANNEQUIN)\\\\I could stay here forever.,(静模假人)\\\\我想永远待在这里。
-Loc_Subtitles/MANN_00111_chase,(MANNEQUIN)\\\\I could stay here forever.,(静模假人)\\\\我想永远待在这里。
-Loc_Subtitles/MANN_00114,(MANNEQUIN)\\\\I enjoy time with my family.,(静模假人)\\\\我喜欢和家人在一起的时光。
-Loc_Subtitles/MANN_00114_chase,(MANNEQUIN)\\\\I enjoy time with my family.,(静模假人)\\\\我喜欢和家人在一起的时光。
-Loc_Subtitles/MANN_00119,(MANNEQUIN)\\\\I want the grand prize.,(静模假人)\\\\我想要拿下大奖！
-Loc_Subtitles/MANN_00119_chase,(MANNEQUIN)\\\\I want the grand prize.,(静模假人)\\\\我想要拿下大奖！
-Loc_Subtitles/MANN_00121,(MANNEQUIN)\\\\I want to pay money to play these games.,(静模假人)\\\\我想花钱玩这些游戏。
-Loc_Subtitles/MANN_00121_chase,(MANNEQUIN)\\\\I want to pay money to play these games.,(静模假人)\\\\我想花钱玩这些游戏。
-Loc_Subtitles/MANN_00123,(MANNEQUIN)\\\\I want to play.,(静模假人)\\\\我想玩。
-Loc_Subtitles/MANN_00123_chase,(MANNEQUIN)\\\\I want to play.,(静模假人)\\\\我想玩。
-Loc_Subtitles/MANN_00124,(MANNEQUIN)\\\\Let us spend our money on that game.,(静模假人)\\\\我们把钱花在那个游戏上吧。
-Loc_Subtitles/MANN_00124_chase,(MANNEQUIN)\\\\Let us spend our money on that game.,(静模假人)\\\\我们把钱花在那个游戏上吧。
-Loc_Subtitles/MANN_00109,(MANNEQUIN)\\\\Let’s spin the wheel.,(静模假人)\\\\来转转转盘吧。
-Loc_Subtitles/MANN_00109_chase,(MANNEQUIN)\\\\Let’s spin the wheel.,(静模假人)\\\\来转转转盘吧。
-Loc_Subtitles/MANN_00115,(MANNEQUIN)\\\\My kids love me now.,(静模假人)\\\\我的孩子们现在都爱我了。
-Loc_Subtitles/MANN_00115_chase,(MANNEQUIN)\\\\My kids love me now.,(静模假人)\\\\我的孩子们现在都爱我了。
-Loc_Subtitles/MANN_00132,(MANNEQUIN)\\\\Play to win.,(静模假人)\\\\玩就是为了赢。
-Loc_Subtitles/MANN_00132_chase,(MANNEQUIN)\\\\Play to win.,(静模假人)\\\\玩就是为了赢。
-Loc_Subtitles/MANN_00110,(MANNEQUIN)\\\\So many prizes.,(静模假人)\\\\奖品真多啊。
-Loc_Subtitles/MANN_00110_chase,(MANNEQUIN)\\\\So many prizes.,(静模假人)\\\\奖品真多啊。
-Loc_Subtitles/MANN_00128,"(MANNEQUIN)\\\\So much fun, fun, fun, fun…",(静模假人)\\\\太有趣了，好玩好玩好玩好玩……
-Loc_Subtitles/MANN_00128_chase,"(MANNEQUIN)\\\\So much fun, fun, fun, fun…",(静模假人)\\\\太有趣了，好玩好玩好玩好玩……
-Loc_Subtitles/MANN_00122,(MANNEQUIN)\\\\Take my wallet. ,(静模假人)\\\\拿走我的钱包吧。 
-Loc_Subtitles/MANN_00122_chase,(MANNEQUIN)\\\\Take my wallet. ,(静模假人)\\\\拿走我的钱包吧。 
-Loc_Subtitles/MANN_00118,(MANNEQUIN)\\\\The grand prize is a mystery.,(静模假人)\\\\大奖还是个谜呢。
-Loc_Subtitles/MANN_00118_chase,(MANNEQUIN)\\\\The grand prize is a mystery.,(静模假人)\\\\大奖还是个谜呢。
-Loc_Subtitles/MANN_00106,(MANNEQUIN)\\\\These games are amazing.,(静模假人)\\\\这些游戏简直太棒了。
-Loc_Subtitles/MANN_00106_chase,(MANNEQUIN)\\\\These games are amazing.,(静模假人)\\\\这些游戏简直太棒了。
-Loc_Subtitles/MANN_00112,(MANNEQUIN)\\\\This is better than ice cream.,(静模假人)\\\\这比冰淇淋还棒呢。
-Loc_Subtitles/MANN_00112_chase,(MANNEQUIN)\\\\This is better than ice cream.,(静模假人)\\\\这比冰淇淋还棒呢。
-Loc_Subtitles/MANN_00129,(MANNEQUIN)\\\\This is so fun that I am coming back tomorrow. With more money.,(静模假人)\\\\这里太好玩了，我明天一定带更多钱再来。
-Loc_Subtitles/MANN_00129_chase,(MANNEQUIN)\\\\This is so fun that I am coming back tomorrow. With more money.,(静模假人)\\\\这里太好玩了，我明天一定带更多钱再来。
-Loc_Subtitles/MANN_00131,(MANNEQUIN)\\\\Try and try again.,(静模假人)\\\\再试一次，再试一次。
-Loc_Subtitles/MANN_00131_chase,(MANNEQUIN)\\\\Try and try again.,(静模假人)\\\\再试一次，再试一次。
-Loc_Subtitles/MANN_00125,(MANNEQUIN)\\\\What a strange and interesting game.,(静模假人)\\\\多么奇怪又有趣的游戏啊。
-Loc_Subtitles/MANN_00125_chase,(MANNEQUIN)\\\\What a strange and interesting game.,(静模假人)\\\\多么奇怪又有趣的游戏啊。
-Loc_Subtitles/MANN_00105,(MANNEQUIN)\\\\Which game will I play first?,(静模假人)\\\\我先玩哪个游戏好呢？
-Loc_Subtitles/MANN_00105_chase,(MANNEQUIN)\\\\Which game will I play first?,(静模假人)\\\\我先玩哪个游戏好呢？
-Loc_Subtitles/MANN_00133,(MANNEQUIN)\\\\Win to win.,(静模假人)\\\\为了赢而赢。
-Loc_Subtitles/MANN_00133_chase,(MANNEQUIN)\\\\Win to win.,(静模假人)\\\\为了赢而赢。
-Loc_Subtitles/MANN_00120,(MANNEQUIN)\\\\Wowie. ,(静模假人)\\\\哇塞。 
-Loc_Subtitles/MANN_00120_chase,(MANNEQUIN)\\\\Wowie. ,(静模假人)\\\\哇塞。 
+Loc_Subtitles/MANN_00127,"(MANNEQUIN)\\\\Buy, buy, buy!",(无脸人偶)\\\\买买买！
+Loc_Subtitles/MANN_00127_chase,"(MANNEQUIN)\\\\Buy, buy, buy!",(无脸人偶)\\\\买买买！
+Loc_Subtitles/MANN_00117,(MANNEQUIN)\\\\Games of chance are my favorite.,(无脸人偶)\\\\我最喜欢机会类的游戏了。
+Loc_Subtitles/MANN_00117_chase,(MANNEQUIN)\\\\Games of chance are my favorite.,(无脸人偶)\\\\我最喜欢机会类的游戏了。
+Loc_Subtitles/MANN_00116,(MANNEQUIN)\\\\Games of skill are my favorite.,(无脸人偶)\\\\我最喜欢技巧类的游戏了。
+Loc_Subtitles/MANN_00116_chase,(MANNEQUIN)\\\\Games of skill are my favorite.,(无脸人偶)\\\\我最喜欢技巧类的游戏了。
+Loc_Subtitles/MANN_00113,(MANNEQUIN)\\\\I am having so much fun.,(无脸人偶)\\\\我玩得太开心了。
+Loc_Subtitles/MANN_00113_chase,(MANNEQUIN)\\\\I am having so much fun.,(无脸人偶)\\\\我玩得太开心了。
+Loc_Subtitles/MANN_00126,(MANNEQUIN)\\\\I am intrigued.,(无脸人偶)\\\\这真有意思。
+Loc_Subtitles/MANN_00126_chase,(MANNEQUIN)\\\\I am intrigued.,(无脸人偶)\\\\这真有意思。
+Loc_Subtitles/MANN_00130,(MANNEQUIN)\\\\I can’t get enough of this high value entertainment.,(无脸人偶)\\\\这种有趣的娱乐，我玩多少都不够。
+Loc_Subtitles/MANN_00130_chase,(MANNEQUIN)\\\\I can’t get enough of this high value entertainment.,(无脸人偶)\\\\这种有趣的娱乐，我玩多少都不够。
+Loc_Subtitles/MANN_00111,(MANNEQUIN)\\\\I could stay here forever.,(无脸人偶)\\\\我想永远待在这里。
+Loc_Subtitles/MANN_00111_chase,(MANNEQUIN)\\\\I could stay here forever.,(无脸人偶)\\\\我想永远待在这里。
+Loc_Subtitles/MANN_00114,(MANNEQUIN)\\\\I enjoy time with my family.,(无脸人偶)\\\\我喜欢和家人在一起的时光。
+Loc_Subtitles/MANN_00114_chase,(MANNEQUIN)\\\\I enjoy time with my family.,(无脸人偶)\\\\我喜欢和家人在一起的时光。
+Loc_Subtitles/MANN_00119,(MANNEQUIN)\\\\I want the grand prize.,(无脸人偶)\\\\我想要拿下大奖！
+Loc_Subtitles/MANN_00119_chase,(MANNEQUIN)\\\\I want the grand prize.,(无脸人偶)\\\\我想要拿下大奖！
+Loc_Subtitles/MANN_00121,(MANNEQUIN)\\\\I want to pay money to play these games.,(无脸人偶)\\\\我想花钱玩这些游戏。
+Loc_Subtitles/MANN_00121_chase,(MANNEQUIN)\\\\I want to pay money to play these games.,(无脸人偶)\\\\我想花钱玩这些游戏。
+Loc_Subtitles/MANN_00123,(MANNEQUIN)\\\\I want to play.,(无脸人偶)\\\\我想玩。
+Loc_Subtitles/MANN_00123_chase,(MANNEQUIN)\\\\I want to play.,(无脸人偶)\\\\我想玩。
+Loc_Subtitles/MANN_00124,(MANNEQUIN)\\\\Let us spend our money on that game.,(无脸人偶)\\\\我们把钱花在那个游戏上吧。
+Loc_Subtitles/MANN_00124_chase,(MANNEQUIN)\\\\Let us spend our money on that game.,(无脸人偶)\\\\我们把钱花在那个游戏上吧。
+Loc_Subtitles/MANN_00109,(MANNEQUIN)\\\\Let’s spin the wheel.,(无脸人偶)\\\\来转转转盘吧。
+Loc_Subtitles/MANN_00109_chase,(MANNEQUIN)\\\\Let’s spin the wheel.,(无脸人偶)\\\\来转转转盘吧。
+Loc_Subtitles/MANN_00115,(MANNEQUIN)\\\\My kids love me now.,(无脸人偶)\\\\我的孩子们现在都爱我了。
+Loc_Subtitles/MANN_00115_chase,(MANNEQUIN)\\\\My kids love me now.,(无脸人偶)\\\\我的孩子们现在都爱我了。
+Loc_Subtitles/MANN_00132,(MANNEQUIN)\\\\Play to win.,(无脸人偶)\\\\玩就是为了赢。
+Loc_Subtitles/MANN_00132_chase,(MANNEQUIN)\\\\Play to win.,(无脸人偶)\\\\玩就是为了赢。
+Loc_Subtitles/MANN_00110,(MANNEQUIN)\\\\So many prizes.,(无脸人偶)\\\\奖品真多啊。
+Loc_Subtitles/MANN_00110_chase,(MANNEQUIN)\\\\So many prizes.,(无脸人偶)\\\\奖品真多啊。
+Loc_Subtitles/MANN_00128,"(MANNEQUIN)\\\\So much fun, fun, fun, fun…",(无脸人偶)\\\\太有趣了，好玩好玩好玩好玩……
+Loc_Subtitles/MANN_00128_chase,"(MANNEQUIN)\\\\So much fun, fun, fun, fun…",(无脸人偶)\\\\太有趣了，好玩好玩好玩好玩……
+Loc_Subtitles/MANN_00122,(MANNEQUIN)\\\\Take my wallet. ,(无脸人偶)\\\\拿走我的钱包吧。 
+Loc_Subtitles/MANN_00122_chase,(MANNEQUIN)\\\\Take my wallet. ,(无脸人偶)\\\\拿走我的钱包吧。 
+Loc_Subtitles/MANN_00118,(MANNEQUIN)\\\\The grand prize is a mystery.,(无脸人偶)\\\\大奖还是个谜呢。
+Loc_Subtitles/MANN_00118_chase,(MANNEQUIN)\\\\The grand prize is a mystery.,(无脸人偶)\\\\大奖还是个谜呢。
+Loc_Subtitles/MANN_00106,(MANNEQUIN)\\\\These games are amazing.,(无脸人偶)\\\\这些游戏简直太棒了。
+Loc_Subtitles/MANN_00106_chase,(MANNEQUIN)\\\\These games are amazing.,(无脸人偶)\\\\这些游戏简直太棒了。
+Loc_Subtitles/MANN_00112,(MANNEQUIN)\\\\This is better than ice cream.,(无脸人偶)\\\\这比冰淇淋还棒呢。
+Loc_Subtitles/MANN_00112_chase,(MANNEQUIN)\\\\This is better than ice cream.,(无脸人偶)\\\\这比冰淇淋还棒呢。
+Loc_Subtitles/MANN_00129,(MANNEQUIN)\\\\This is so fun that I am coming back tomorrow. With more money.,(无脸人偶)\\\\这里太好玩了，我明天一定带更多钱再来。
+Loc_Subtitles/MANN_00129_chase,(MANNEQUIN)\\\\This is so fun that I am coming back tomorrow. With more money.,(无脸人偶)\\\\这里太好玩了，我明天一定带更多钱再来。
+Loc_Subtitles/MANN_00131,(MANNEQUIN)\\\\Try and try again.,(无脸人偶)\\\\再试一次，再试一次。
+Loc_Subtitles/MANN_00131_chase,(MANNEQUIN)\\\\Try and try again.,(无脸人偶)\\\\再试一次，再试一次。
+Loc_Subtitles/MANN_00125,(MANNEQUIN)\\\\What a strange and interesting game.,(无脸人偶)\\\\多么奇怪又有趣的游戏啊。
+Loc_Subtitles/MANN_00125_chase,(MANNEQUIN)\\\\What a strange and interesting game.,(无脸人偶)\\\\多么奇怪又有趣的游戏啊。
+Loc_Subtitles/MANN_00105,(MANNEQUIN)\\\\Which game will I play first?,(无脸人偶)\\\\我先玩哪个游戏好呢？
+Loc_Subtitles/MANN_00105_chase,(MANNEQUIN)\\\\Which game will I play first?,(无脸人偶)\\\\我先玩哪个游戏好呢？
+Loc_Subtitles/MANN_00133,(MANNEQUIN)\\\\Win to win.,(无脸人偶)\\\\为了赢而赢。
+Loc_Subtitles/MANN_00133_chase,(MANNEQUIN)\\\\Win to win.,(无脸人偶)\\\\为了赢而赢。
+Loc_Subtitles/MANN_00120,(MANNEQUIN)\\\\Wowie. ,(无脸人偶)\\\\哇塞。 
+Loc_Subtitles/MANN_00120_chase,(MANNEQUIN)\\\\Wowie. ,(无脸人偶)\\\\哇塞。 
 Loc_Subtitles/JEST_MOM_00003,(MOTHER)\\\\Ahhh!,(妈妈)\\\\啊—！
 Loc_Subtitles/JEST_MOM_00002,(MOTHER)\\\\Oh no. Let me try.,(妈妈)\\\\哦不，让我来试试。
 Loc_Subtitles/JEST_MOM_00004,(MOTHER)\\\\Oh you…,(妈妈)\\\\哎呀你……
@@ -2082,7 +2082,7 @@ Loc_Subtitles/HELPM_00701,(MR HELPFUL)\\\\Oof!,(助手先生)\\\\哎哟！
 Loc_Subtitles/HELPM_00188,(MR HELPFUL)\\\\Oooo! Outer space!,(助手先生)\\\\哇！外太空耶！
 Loc_Subtitles/HELPM_00149,(MR HELPFUL)\\\\Ouch!,(助手先生)\\\\哎呀！
 Loc_Subtitles/HELPM_00179,(MR HELPFUL)\\\\Out of order.,(助手先生)\\\\暂停使用。
-Loc_Subtitles/HELPM_00187,(MR HELPFUL)\\\\Pew pew pew!,(助手先生)\\\\嗞嗞嗞！(biu biu biu~)
+Loc_Subtitles/HELPM_00187,(MR HELPFUL)\\\\Pew pew pew!,(助手先生)\\\\(biu biu biu~)
 Loc_Subtitles/HELPM_00114,"(MR HELPFUL)\\\\Please be aware of potential power spikes. In case of an outage,\\\\use the conduit in the Big Top Showroom entrance to reset the system.",(助手先生)\\\\请留意可能出现的电流突增。如遇断电，请在蛛顶票王展厅入口处用导管重置系统。
 Loc_Subtitles/HELPM_00132,(MR HELPFUL)\\\\Please take your complimentary ticket. ,(助手先生)\\\\请领取你的免费票。 
 Loc_Subtitles/HELPM_00178b,(MR HELPFUL)\\\\Proceed to the Staircase of Mystery to claim your grand prize. ,(助手先生)\\\\请前往神秘阶梯，领取您的超级大奖吧！ 
@@ -2159,7 +2159,7 @@ Loc_Subtitles/HELPM_00135,(MR HELPFUL)\\\\Your entry ticket includes one free sp
 Loc_Subtitles/HELPM_00182,(MR HELPFUL)\\\\Zap zap!,(助手先生)\\\\嗞嗞！
 Loc_Subtitles/HELPY_VOshutdownStop,(MR/MRS HELPFUL)\\\\(Break down),(助手先生/助手女士)\\\\(系统故障)
 Loc_Subtitles/HELPM_00004,(MR/MRS HELPFUL)\\\\It’s tiiiime to O-PEN THE DOOR,(助手先生/助手女士)\\\\该～～开门了！
-Loc_Subtitles/HELPF_00209,(MRS HELPFUL)\\\\A completed "Director" suit is required.,(助手女士)\\\\需要一套完整的“导演”制服方可进入。
+Loc_Subtitles/HELPF_00209,(MRS HELPFUL)\\\\A completed "Director" suit is required.,(助手女士)\\\\需要一套完整的“导演”套装方可进入。
 Loc_Subtitles/HELPF_00003,(MRS HELPFUL)\\\\A death defying dive!,(助手女士)\\\\一场惊心动魄的跳水表演！
 Loc_Subtitles/HELPF_00716a,(MRS HELPFUL)\\\\A personal achievement! Be proud.,(助手女士)\\\\这是个人成就，值得自豪！
 Loc_Subtitles/HELPF_00107A,"(MRS HELPFUL)\\\\Admins, please ensure that our creator staff aren’t wandering around the Lobby.",(助手女士)\\\\管理员，请确保我们的创作者员工别在大厅里闲逛。
@@ -2196,7 +2196,7 @@ Loc_Subtitles/HELPF_00004,(MRS HELPFUL)\\\\It’s tiiiime to O-PEN THE DOOR!,(�
 Loc_Subtitles/HELPF_00307,(MRS HELPFUL)\\\\Keep it to yourselves for now until we're able to make a full company announcement. ,(助手女士)\\\\在我们正式对全公司宣布之前，请大家暂时保密。 
 Loc_Subtitles/HELPF_00321,(MRS HELPFUL)\\\\Let us know if there’s anything we can do to make\\\\your work day more pleasant… aside from windows.,(助手女士)\\\\如果有任何能让你的工作日更愉快的事，请随时告诉我们……当然，除了要窗户以外。
 Loc_Subtitles/HELPF_00609,(MRS HELPFUL)\\\\Make every day special.,(助手女士)\\\\让每一天都变得特别吧。
-Loc_Subtitles/HELPF_00207,(MRS HELPFUL)\\\\Mr Helpful is worried about the effects of moisture on the suit's functionality and safety.,(助手女士)\\\\助手先生很担心湿气会影响装备的功能和安全，请务必注意。
+Loc_Subtitles/HELPF_00207,(MRS HELPFUL)\\\\Mr Helpful is worried about the effects of moisture on the suit's functionality and safety.,(助手女士)\\\\助手先生很担心湿气会影响套装的功能和安全，请务必注意。
 Loc_Subtitles/HELPF_00711,(MRS HELPFUL)\\\\Nice shootin’!,(助手女士)\\\\好枪法！
 Loc_Subtitles/HELPF_00711a,"(MRS HELPFUL)\\\\Nice shootin’, Tex!",(助手女士)\\\\好枪法，牛仔！
 Loc_Subtitles/HELPF_00718,(MRS HELPFUL)\\\\No refunds!,(助手女士)\\\\概不退款！
@@ -2425,7 +2425,7 @@ Loc_Subtitles/PUP_FOXY_00018,(PUPPET FOXY)\\\\Ahoy!!,(木偶霍斯)\\\\喂！！
 Loc_Subtitles/PUP_FOXY_00004,(PUPPET FOXY)\\\\All hands on deck!!! All hands on deck!!! ,(木偶霍斯)\\\\所有人到甲板集合！！！统统集合！！！ 
 Loc_Subtitles/PUP_FOXY_00006,(PUPPET FOXY)\\\\Bawson!,(木偶霍斯)\\\\鲍森！
 Loc_Subtitles/PUP_FOXY_00007,"(PUPPET FOXY)\\\\Bawson, we need the perfect present for the big surprise party.",(木偶霍斯)\\\\鲍森，我们得为这个盛大的惊喜派对准备一份完美的大礼。
-Loc_Subtitles/PUP_FOXY_00011,(PUPPET FOXY)\\\\Come on lads! Stop that Rocktapus!,(木偶霍斯)\\\\伙计们！快去拦住那只章鱼怪！
+Loc_Subtitles/PUP_FOXY_00011,(PUPPET FOXY)\\\\Come on lads! Stop that Rocktapus!,(木偶霍斯)\\\\伙计们！快去拦住那只摇滚章鱼！
 Loc_Subtitles/PUP_FOXY_00020,(PUPPET FOXY)\\\\Ha ha!!,(木偶霍斯)\\\\哈哈哈！！
 Loc_Subtitles/CAPTAIN_00015,(PUPPET FOXY)\\\\Har har!,(木偶霍斯)\\\\哈哈！
 Loc_Subtitles/PUP_FOXY_00014,(PUPPET FOXY)\\\\I did?,(木偶霍斯)\\\\是我干的吗？
@@ -2433,7 +2433,7 @@ Loc_Subtitles/PUP_FOXY_00013,(PUPPET FOXY)\\\\It be gone… Forever…,(木偶�
 Loc_Subtitles/PUP_FOXY_00005,"(PUPPET FOXY)\\\\Lads, did none of ye get a present?",(木偶霍斯)\\\\伙计们，难道你们谁都没准备礼物吗？
 Loc_Subtitles/PUP_FOXY_00012,(PUPPET FOXY)\\\\NO! The perfect present!!,(木偶霍斯)\\\\不是啊！说的是完美的礼物！！
 Loc_Subtitles/PUP_FOXY_00015,"(PUPPET FOXY)\\\\Of course, Captain! Who else?",(木偶霍斯)\\\\当然啦，船长！还能有谁？
-Loc_Subtitles/PUP_FOXY_00009,"(PUPPET FOXY)\\\\Renard, how much did ye make?!",(木偶霍斯)\\\\雷纳德，你赚了多少？！
+Loc_Subtitles/PUP_FOXY_00009,"(PUPPET FOXY)\\\\Renard, how much did ye make?!",(木偶霍斯)\\\\雷纳德，你做了多少个？！
 Loc_Subtitles/PUP_FOXY_00003,(PUPPET FOXY)\\\\Shiver me timbers! No gift?,(木偶霍斯)\\\\见鬼！连个礼物都没有？
 Loc_Subtitles/PUP_FOXY_00010,"(PUPPET FOXY)\\\\Well done, Bawson!",(木偶霍斯)\\\\干得漂亮，鲍森！
 Loc_Subtitles/PUP_FOXY_00002,(PUPPET FOXY)\\\\Why ye look so down in the dumps? Today’s the big surprise party.\\\\Ye should be excited!,(木偶霍斯)\\\\你怎么一副愁眉苦脸的样子？今天可是那个神秘大派对哦，\\\\你得高兴点才是！
@@ -2458,7 +2458,7 @@ Loc_Subtitles/PUP_ROXY_00012c,(PUPPET ROXY)\\\\Why though?,(木偶罗克西)\\\\
 Loc_Subtitles/PUP_ROXY_00010,(PUPPET ROXY)\\\\Yar!,(木偶罗克西)\\\\嗷！
 Loc_Subtitles/sfx_radio_tuning_audioLog,(RADIO)\\\\(static),(无线电)\\\\(噼啪杂音)
 Loc_Subtitles/RENARD_00003,"(RENARD)\\\\Eez, time for cake!",(雷纳德)\\\\欸，吃蛋糕的时间啦！
-Loc_Subtitles/RENARD_00001,(RENARD)\\\\Monsieur Foxy! Ze snacks are ready. ,(雷纳德)\\\\狐狸先生！小吃都做好啦。 
+Loc_Subtitles/RENARD_00001,(RENARD)\\\\Monsieur Foxy! Ze snacks are ready. ,(雷纳德)\\\\霍斯先生！小吃都做好啦。 
 Loc_Subtitles/RENARD_00005,(RENARD)\\\\NO! Not ze tete de veau!,(雷纳德)\\\\不！不是牛头肉啊！
 Loc_Subtitles/RENARD_00004,(RENARD)\\\\No! No! Not ze fondue!,(雷纳德)\\\\不！不！别是奶酪火锅！
 Loc_Subtitles/RENARD_00008,(RENARD)\\\\Omlete du fromage!,(雷纳德)\\\\奶酪煎蛋卷！
@@ -2517,7 +2517,7 @@ Loc_Subtitles/STAGE_MGR_00010,(STAGE MANAGER)\\\\Reloading…,(舞台经理)\\\\
 Loc_Subtitles/STAGE_MGR_00012,(STAGE MANAGER)\\\\Run demonstration pre-show.,(舞台经理)\\\\启动演示前预演。
 Loc_Subtitles/STAGE_MGR_00409,(STAGE MANAGER)\\\\Safety: Emergency alerts active.,(舞台经理)\\\\安全状态：紧急警报已启动。
 Loc_Subtitles/STAGE_MGR_00014d,(STAGE MANAGER)\\\\Seventy percent power remaining.,(舞台经理)\\\\电量剩余70%。
-Loc_Subtitles/STAGE_MGR_00002,(STAGE MANAGER)\\\\Shoot the “Broadcast Target” to begin the show.,(舞台经理)\\\\请射击“广播目标”以开始表演。
+Loc_Subtitles/STAGE_MGR_00002,(STAGE MANAGER)\\\\Shoot the “Broadcast Target” to begin the show.,(舞台经理)\\\\请射击“开播目标”以开始表演。
 Loc_Subtitles/STAGE_MGR_00004,(STAGE MANAGER)\\\\Simply shoot the targets to progress the story.,(舞台经理)\\\\只需射击目标即可推进剧情。
 Loc_Subtitles/STAGE_MGR_00014e,(STAGE MANAGER)\\\\Sixty percent power remaining.,(舞台经理)\\\\电量剩余60%。
 Loc_Subtitles/STAGE_MGR_00014j,(STAGE MANAGER)\\\\Ten percent power remaining.,(舞台经理)\\\\电量剩余10%。
@@ -2586,7 +2586,7 @@ My husband is a steel worker, and recently he was moved to the night shift. He t
 
 R. Quinn","亲爱的MCM：
 
-我丈夫是钢铁工人，最近转到了夜班。他喝了你们的“提神拿铁”，头两个星期确实非常有效。但现在他因为这款饮料进了医院。很快你们就会接到我们律师的信。
+我丈夫是钢铁工人，最近转到了夜班。他喝了你们的“熬夜拿铁”，头两个星期确实非常有效。但现在他因为这款饮料进了医院。很快你们就会接到我们律师的信。
 
 R.奎恩"
 Loc_TextLogs/Loc_TextLogs_Misc_34_Content,"Dear Mr. Murray and Co., 
@@ -2679,7 +2679,7 @@ Loc_TextLogs/Loc_TextLogs_Misc01_Content,"Ken, after one interview, they offered
 I'm going to make double what I make here.  You should come with me. There's a referral bonus if we can get more Murray employees to jump ship. ","Ken，我才面试了一次，他们就给我发了offer！太快了，甚至没问我的工作经验或技能，只问了'你什么时候能来？'
 
 我在那里拿到的是现在工资的两倍。你也过来吧！如果还能拉更多默里的员工一起跳槽，还有推荐奖金拿。 "
-Loc_TextLogs/Loc_TextLogs_Misc23_Content,"Lee, the projector is down again in the theater. I swear this stupid show is cursed. What was Edwin thinking, making this kid's thing? Plus those things just creep me out.",Lee，剧场的投影机又坏了。我说真的，这鸟节目真被诅咒了。Edwin到底怎么想的，做这么个小孩子的东西？这些玩意儿让人看着都发怵。
+Loc_TextLogs/Loc_TextLogs_Misc23_Content,"Lee, the projector is down again in the theater. I swear this stupid show is cursed. What was Edwin thinking, making this kid's thing? Plus those things just creep me out.",Lee，剧场的投影机又坏了。我说真的，这鸟节目真被诅咒了。埃德温到底怎么想的，做这么个小孩子的东西？这些玩意儿让人看着都发怵。
 Loc_TextLogs/Loc_TextLogs_Misc_30_Title,Locators,定位器
 Loc_TextLogs/Loc_TextLogs_Misc08_Title,Love That Ticket Booth!,真喜欢那个售票亭！
 Loc_TextLogs/Loc_TextLogs_Exterior_Title,Mail - Aug 3rd,邮件—8月3日
@@ -2699,7 +2699,7 @@ Loc_TextLogs/Loc_TextLogs_CostumeBack6_Content,Over the Ocean,天际之外
 Loc_TextLogs/Loc_TextLogs_Misc12_Title,Please Advise,请批示
 Loc_TextLogs/Loc_TextLogs_Misc24_Title,Power,电力
 Loc_TextLogs/Loc_TextLogs_Misc23_Title,Projector Issues,投影仪故障
-Loc_TextLogs/Loc_TextLogs_Theater1_Content,Ralph went to the hospital last night. That suit is going to be the death of one of us. One more injury and I'm out of here. I mean it this time.,拉尔夫昨晚进了医院。那身衣服迟早要害死我们其中一个。要是再出一次事故，我就真的不干了，这次我是说真的。
+Loc_TextLogs/Loc_TextLogs_Theater1_Content,Ralph went to the hospital last night. That suit is going to be the death of one of us. One more injury and I'm out of here. I mean it this time.,拉尔夫昨晚进了医院。那身套装迟早要害死我们其中一个。要是再出一次事故，我就真的不干了，这次我是说真的。
 Loc_TextLogs/Loc_TextLogs_NC_Fiona_InventorHouse_Title,Received: 5 Min Ago,已收到：5分钟前
 Loc_TextLogs/Loc_TextLogs_CostumeBack6_Title,Retail - Friday 6:23 pm,零售部—周五 下午6:23
 Loc_TextLogs/Loc_TextLogs_CostumeBack7_Title,Retail - Friday 6:30 pm,零售部—周五 下午6:30
@@ -2739,7 +2739,7 @@ Loc_TextLogs/Loc_TextLogs_Misc13_Content,"Why are we turning down work? The floa
 NewStringTable/Loc_Achievements_Desc_15,"""You have found my presents. You have completed my tasks.""",你已经找到了我的礼物，也完成了我的任务。
 NewStringTable/Loc_Achievements_Title_25,"Aye Aye, Captain!",收到，船长！
 NewStringTable/Loc_Achievements_Title_24,Belated Birthday,迟来的生日
-NewStringTable/Loc_Achievements_Title_18,Boop,嗶
+NewStringTable/Loc_Achievements_Title_18,Boop,Boop
 NewStringTable/Loc_Achievements_Desc_18,Boop the nose.,戳戳鼻子。
 NewStringTable/Loc_Achievements_Title_2,Clock Out,下班打卡
 NewStringTable/Loc_Achievements_Desc_19,Collect all text logs.,收集全部文本记录。
@@ -2776,8 +2776,8 @@ NewStringTable/Loc_Achievements_Title_11,Pleasant Dreams,美梦成真
 NewStringTable/Loc_Activity_Title,Recover lost property,找回遗失的物品
 NewStringTable/Loc_Achievements_Desc_7,Return from the Big Top Showroom,从蛛顶票王展厅返回
 NewStringTable/Loc_Achievements_Desc_8,Return from the Recycling Center.,从回收中心返回。
-NewStringTable/Loc_Achievements_Desc_14,Run Edwin's "Parachute" program. ,运行埃德温的“降落伞”程序。 
-NewStringTable/Loc_Achievements_Title_14,Run Edwin's "Parachute" program. ,运行埃德温的“降落伞”程序。 
+NewStringTable/Loc_Achievements_Desc_14,Run Edwin's "Parachute" program. ,运行埃德温的“Parachute”程序。 
+NewStringTable/Loc_Achievements_Title_14,Run Edwin's "Parachute" program. ,运行埃德温的“Parachute”程序。 
 NewStringTable/Loc_Achievements_Desc_17,Shoot a costumed 'threat' with a ball gun.,用球枪击中扮成威胁装扮的人。
 NewStringTable/Loc_Achievements_Desc_11,Stay up past your bedtime. ,熬夜到该睡觉的时间还不睡。 
 NewStringTable/Loc_Achievements_Title_4,Story Time,故事时间
